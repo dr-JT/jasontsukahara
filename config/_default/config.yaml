@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Jason Tsukahara # Website name
+baseURL: 'https://papaya-axolotl-1768bd.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE

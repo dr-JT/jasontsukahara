@@ -1,0 +1,35 @@
+# Theme metadata
+# https://coolors.co/13262f-698996-97b1a6-87352d-eeede7-abbec4
+name = "academic_colors"
+
+[light]
+  # Primary
+  primary = "#13262F"
+
+  # Menu
+  menu_primary = "#13262F"
+  menu_text = "#FFFFFF"
+  menu_text_active = "#87352D"
+  menu_title = "#FFFFFF"
+
+  # Links
+  link = "#87352D"
+  link_hover = "#993D35"
+  link_decoration = "none"
+
+  # Backgrounds
+  background = "#ABBEC4"
+
+  # Home sections
+  home_section_odd = "#698996"
+  home_section_even = "#97B1A6"
+
+  # hex color being used for card backgournd
+  # #EEEDE7
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
