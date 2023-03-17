@@ -11,48 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: As a cognitive psychologist and practicing Buddhist, I am curious about the ways in which we use attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways. Read more about me [here](/authors/admin)
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      columns: '1'
-      view: compact
-      background:
-        color: '#97B1A6'
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      text: 
-      filters:
-        folders:
-          - projects
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: Research
-          tag: Research
-        - name: R Packages
-          tag: R Package
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-      background:
-        color: '#97B1A6'
+      text: As a cognitive psychologist and practicing Buddhist, I am curious about the ways in which we use attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways. <br><br>Read more about me [here](/authors/admin)
   - block: features
     content:
       title: Skills
@@ -72,13 +31,45 @@ sections:
     design:
       background:
         color: '#97B1A6'
-  - block: tag_cloud
+  - block: collection
+    id: featured
     content:
-      title: Topics
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
     design:
       columns: '1'
-      font_size_min: 1.0
-      font_size_max: 1.5
+      view: compact
+      background:
+        color: '#97B1A6'
+  - block: portfolio
+    id: projects
+    content:
+      title: Projects
+      text: 
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: Research
+          tag: Research
+        - name: R Packages
+          tag: R Package
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
       background:
         color: '#97B1A6'
 ---

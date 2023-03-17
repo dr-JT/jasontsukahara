@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jason Tsukahara
+title: Jason S. Tsukahara
 
 # Full name (for SEO)
 first_name: Jason
@@ -8,7 +8,7 @@ last_name: Tsukahara
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
