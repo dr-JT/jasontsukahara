@@ -39,6 +39,7 @@ sections:
     design:
       columns: '1'
       view: compact
+      background: '#ABBEC4'
   - block: portfolio
     id: projects
     content:
