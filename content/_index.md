@@ -39,7 +39,8 @@ sections:
     design:
       columns: '1'
       view: compact
-      background: '#ABBEC4'
+      background: 
+        color: '#ABBEC4'
   - block: portfolio
     id: projects
     content:
@@ -65,5 +66,5 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: falsez
 ---
