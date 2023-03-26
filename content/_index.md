@@ -66,5 +66,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: falsez
+      flip_alt_rows: false
+      background:
+        color: '#698996'
 ---
