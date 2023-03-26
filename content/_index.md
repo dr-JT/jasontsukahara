@@ -28,9 +28,6 @@ sections:
           description: Data Science, Analysis, and Package Development
           icon: r-project
           icon_pack: fab
-    design:
-      background:
-        color: '#97B1A6'
   - block: collection
     id: featured
     content:
@@ -42,8 +39,6 @@ sections:
     design:
       columns: '1'
       view: compact
-      background:
-        color: '#97B1A6'
   - block: portfolio
     id: projects
     content:
@@ -70,6 +65,4 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-      background:
-        color: '#97B1A6'
 ---
