@@ -9,11 +9,11 @@ name = "academic_colors"
   # Menu
   menu_primary = "#13262F"
   menu_text = "#FFFFFF"
-  menu_text_active = "#A52C21"
+  menu_text_active = "#A40E00"
   menu_title = "#FFFFFF"
 
   # Links
-  link = "#A52C21"
+  link = "#A40E00"
   link_hover = "#993D35"
   link_decoration = "none"
 
