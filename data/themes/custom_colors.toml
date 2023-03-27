@@ -14,7 +14,7 @@ name = "academic_colors"
 
   # Links
   link = "#7B0A00"
-  link_hover = "#993D35"
+  link_hover = "#9A0D00"
   link_decoration = "none"
 
   # Backgrounds
