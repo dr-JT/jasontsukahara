@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: custom_colors
+  theme_day: academic_2
   theme_night:
   font: custom_fonts
   font_size: M
@@ -37,7 +37,7 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 

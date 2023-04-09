@@ -32,7 +32,5 @@ sections:
       view: 1
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-      background: 
-        color: "#ABBEC4"
 ---
 
