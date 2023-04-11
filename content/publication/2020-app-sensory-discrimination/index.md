@@ -26,6 +26,7 @@ summary:
 
 tags:
 - Journal Article
+- jtsukahara
 featured: true
 
 # links:

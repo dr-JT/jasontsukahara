@@ -1,6 +1,6 @@
 ---
 title: semoutput
-summary: An R package to create nice looking output for CFA and SEM analyses using lavaan and semPlot packages
+summary: An R package to create nice looking output for CFA and SEM analyses using lavaan and semPlot packages <br><br>
 tags:
   - R Package
 date: '2022-08-25T00:00:00Z'

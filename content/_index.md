@@ -11,22 +11,8 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: As a cognitive psychologist and practicing Buddhist, I am curious about the ways in which we use attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways. <br><br>Read more about me [here](/authors/admin)
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-      archive:
-        enable: true
-        text: See all publications
-        link: publication/
-    design:
-      columns: '1'
-      view: compact
+      text: My research focuses on the control of attention and its role in mind and life. <br><br>Read more about me [here](/jasontsukahara)
+  
   - block: portfolio
     id: projects
     content:
@@ -52,9 +38,26 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: masonry
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
+      
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+      archive:
+        enable: true
+        text: See all publications
+        link: publication/
+    design:
+      columns: '1'
+      view: list
+      
   - block: features
     content:
       title: Skills
