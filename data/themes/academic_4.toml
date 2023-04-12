@@ -25,9 +25,7 @@ name = "academic_4"
   home_section_even = "#FFFFFF"
 
   # hex color being used for card backgournd
-  # #EEEDE7
-
-  #26547C
+  # #F8F5EB
 
 [dark]
   # Primary
