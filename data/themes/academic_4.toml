@@ -4,25 +4,25 @@ name = "academic_1"
 
 [light]
   # Primary
-  primary = "#13262F"
+  primary = "#C88539"
 
   # Menu
-  menu_primary = "#13262F"
+  menu_primary = "#77A4BC"
   menu_text = "#FFFFFF"
-  menu_text_active = "#7B0A00"
+  menu_text_active = "#C88539"
   menu_title = "#FFFFFF"
 
   # Links
-  link = "#7B0A00"
-  link_hover = "#9A0D00"
+  link = "#C88539"
+  link_hover = "#C88539"
   link_decoration = "none"
 
   # Backgrounds
-  background = "#ABBEC4"
+  background = "#F8F5EB"
 
   # Home sections
-  home_section_odd = "#698996"
-  home_section_even = "#97B1A6"
+  home_section_odd = "#F8F5EB"
+  home_section_even = "#FFFFFF"
 
   # hex color being used for card backgournd
   # #EEEDE7

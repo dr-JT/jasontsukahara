@@ -18,11 +18,11 @@ name = "academic_1"
   link_decoration = "none"
 
   # Backgrounds
-  background = "#ABBEC4"
+  background = "#EEEDE7"
 
   # Home sections
-  home_section_odd = "#698996"
-  home_section_even = "#97B1A6"
+  home_section_odd = "#EEEDE7"
+  home_section_even = "#9BB1B9"
 
   # hex color being used for card backgournd
   # #EEEDE7
