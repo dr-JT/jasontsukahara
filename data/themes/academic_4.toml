@@ -4,17 +4,17 @@ name = "academic_4"
 
 [light]
   # Primary
-  primary = "#732C2C"
+  primary = "#7B0A00"
 
   # Menu
   menu_primary = "#26547C"
   menu_text = "#FFFFFF"
-  menu_text_active = "#732C2C"
+  menu_text_active = "#7B0A00"
   menu_title = "#FFFFFF"
 
   # Links
-  link = "#732C2C"
-  link_hover = "#732C2C"
+  link = "#7B0A00"
+  link_hover = "#7B0A00"
   link_decoration = "none"
 
   # Backgrounds
