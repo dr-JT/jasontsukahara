@@ -7,7 +7,7 @@ name = "academic_4"
   primary = "#732C2C"
 
   # Menu
-  menu_primary = "#77A4BC"
+  menu_primary = "#26547C"
   menu_text = "#FFFFFF"
   menu_text_active = "#732C2C"
   menu_title = "#FFFFFF"
