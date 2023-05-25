@@ -1,5 +1,6 @@
 ---
 title: "Transcutaneous vagus nerve stimulation via tragus or cymba conchae: Are its psychophysiological effects dependent on the stimulation area?"
+
 authors:
 - Uirassu Borges
 - Marie Pfannenstiel
@@ -7,27 +8,24 @@ authors:
 - Sylvain Laborde
 - Stefanie Klatt
 - Markus Raab
+
 date: "2021-01-01T00:00:00Z"
 doi: "10.1016/j.ijpsycho.2021.01.003"
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
-
-# Publication name and optional abbreviated publication name.
 publication: "*International Journal of Psychophysiology, 161* 64-75"
 publication_short: "International Journal of Psychophysiology"
 
-abstract: 
+publication_types: ["2"]
 
-# Summary. An optional shortened abstract.
-summary: 
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 
 tags:
 - Journal Article
 featured: false
+
+projects: []
+slides: 
 
 # links:
 # - name: ""
@@ -41,25 +39,16 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
+summary: 
+
+abstract: 
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: ''
   focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: 
 ---
 

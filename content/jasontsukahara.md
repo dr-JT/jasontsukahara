@@ -5,7 +5,7 @@ author: admin
 
 sections:
   - block: v1/about
-  - block: portfolio
+  - block: collection
     id: featured
     content:
       title: Featured Publications
@@ -13,9 +13,14 @@ sections:
         folders:
           - publication
         tags: [jtsukahara]
+        featured_only: true
+      archive:
+        enable: true
+        text: See all publications
+        link: publication/
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       columns: '1'
-      view: masonry
+      view: compact
 ---
-
-

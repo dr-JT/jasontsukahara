@@ -12,6 +12,24 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: My research focuses on the control of attention and its role in mind and life. <br><br>Read more about me [here](/jasontsukahara)
+      
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+      archive:
+        enable: true
+        text: See all publications
+        link: publication/
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      columns: '1'
+      view: list
   
   - block: portfolio
     id: projects
@@ -41,22 +59,6 @@ sections:
       view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
-      
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-      archive:
-        enable: true
-        text: See all publications
-        link: publication/
-    design:
-      columns: '1'
-      view: list
       
   - block: features
     content:

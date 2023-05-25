@@ -1,28 +1,28 @@
 # Theme metadata
-# https://coolors.co/13262f-698996-97b1a6-7b0a00-eeede7-abbec4
+# https://coolors.co/3d5a80-f8f5eb-4d1934-dcc498-c09345
 name = "academic_3"
 
 [light]
   # Primary
-  primary = "#13262F"
+  primary = "#3D5A80"
 
   # Menu
-  menu_primary = "#13262F"
+  menu_primary = "#3D5A80"
   menu_text = "#FFFFFF"
-  menu_text_active = "#7B0A00"
-  menu_title = "#FFFFFF"
+  menu_text_active = "#c09345"
+  menu_title = "#c09345"
 
   # Links
-  link = "#7B0A00"
-  link_hover = "#9A0D00"
-  link_decoration = "none"
+  link = "#4D1934"
+  link_hover = "#4D1934"
+  link_decoration = "c09345"
 
   # Backgrounds
-  background = "#EEEDE7"
+  background = "#F8F5EB"
 
   # Home sections
-  home_section_odd = "#EEEDE7"
-  home_section_even = "#9BB1B9"
+  home_section_odd = "#DCC498"
+  home_section_even = "#F8F5EB"
 
   # hex color being used for card backgournd
   # #EEEDE7

@@ -1,5 +1,6 @@
 ---
 title: Publications
+subtitle: 'PNAS; JEP:G; Intelligence; Cognivie Psychology; Cognition; Behavior Research Methods; and more'
 cms_exclude: true
 
 # View.

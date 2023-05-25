@@ -1,12 +1,13 @@
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+# This file is formatted using YAML syntax -
+# learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: academic_4
+  theme_day: academic_5
   theme_night:
   font: custom_fonts
   font_size: M
@@ -18,7 +19,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Academic page for Jason Tsukahara'
+    description: 'Jason Tsukahara'
     twitter: 'jasontsukahara'
   analytics:
     google_analytics: ''
