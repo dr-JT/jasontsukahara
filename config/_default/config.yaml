@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jason Tsukahara # Website name
-baseURL: 'https://papaya-axolotl-1768bd.netlify.app/' # Website URL
+baseURL: 'https://jasontsukahara.com' # Website URL
 
 ############################
 ## LANGUAGE
