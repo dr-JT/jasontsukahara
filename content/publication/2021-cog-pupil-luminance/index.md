@@ -20,7 +20,8 @@ tags:
 - Journal Article
 featured: false
 
-projects: []
+projects:
+  - ac-brain
 slides: 
 
 # links:

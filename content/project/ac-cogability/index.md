@@ -20,18 +20,14 @@ url_video: ''
 slides: 
 ---
 
+## Latest Updates
+
+I am currently writing papers for publication on 1) attention control and inspection time tasks, and 2) sustained attention, reward, and pupil size.
+
+I am currently brainstorming research ideas for the next data collection study.
+
 ## Description
 
-
-----
-
-## Publications
-
-{{< cite page="/publication/2020-app-sensory-discrimination" view=2 >}}
-{{< cite page="/publication/2022-int-pot" view=2 >}}
-{{< cite page="/publication/2020-lm-diff-exp" view=2 >}}
-{{< cite page="/publication/2020-wms-book-chapter" view=2 >}}
-{{< cite page="/publication/2021-tr-rationality" view=2 >}}
-{{< cite page="/publication/2022-chwml-book-chapter" view=2 >}}
+Coming soon...
 
 

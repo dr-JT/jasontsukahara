@@ -24,7 +24,8 @@ tags:
 - jtsukahara
 featured: false
 
-projects: []
+projects:
+  - ac-measurement
 slides: 
 
 # links:

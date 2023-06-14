@@ -23,7 +23,8 @@ tags:
 - Journal Article
 featured: false
 
-projects: []
+projects:
+  - ac-cogability
 slides: 
 
 # links:

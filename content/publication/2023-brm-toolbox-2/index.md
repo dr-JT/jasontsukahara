@@ -7,7 +7,7 @@ authors:
 - Randall W. Engle
 
 date: "2023-05-03T00:00:00Z"
-doi: "10.31234/osf.io/gbnzh"
+doi: "10.3758/s13428-023-02140-2"
 publication: "*Behavior Research Methods*"
 publication_short: "Behavior Research Methods"
 
@@ -20,13 +20,14 @@ publication_types: ["2"]
 tags:
 featured: false
 
-projects: []
+projects: 
+  - ac-measurement
 slides: 
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://psyarxiv.com/gbnzh/'
+url_pdf: ''
 url_code: 'https://osf.io/me58c/'
 url_dataset: 'https://osf.io/me58c/'
 url_poster: ''

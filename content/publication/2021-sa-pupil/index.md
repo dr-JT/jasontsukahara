@@ -21,7 +21,8 @@ tags:
 - Popular Writing
 featured: false
 
-projects: []
+projects:
+  - ac-brain
 slides: 
 
 # links:

@@ -20,15 +20,12 @@ url_video: ''
 slides: 
 ---
 
+## Latest Updates
+
+I am currently conducting a large-sample (N = 200+) fMRI study to investigate the relationship between attention control, functional connectivity, and the locus coeruleus-norepinephrine system.
+
 ## Description
 
+Coming soon...
 
-----
-
-## Publications
-
-{{< cite page="/publication/2021-pnas-intelligence-lc" view=2 >}}
-{{< cite page="/publication/2021-sa-pupil" view=2 >}}
-{{< cite page="/publication/2021-cog-pupil-luminance" view=2 >}}
-{{< cite page="/publication/2016-cp-baseline-pupil-og" view=2 >}}
 

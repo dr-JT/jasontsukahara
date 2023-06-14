@@ -21,7 +21,8 @@ tags:
 - jtsukahara
 featured: true
 
-projects: []
+projects:
+  - ac-brain
 slides: 
 
 # links:

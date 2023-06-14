@@ -33,7 +33,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-projects: []
+projects: 
+  - ac-cogability
 slides: 
 
 summary: In this chapter, we detail our approach to the study of individual differences in working memory capacity (WMC) and how it has contributed to understanding the mechanisms of complex cognition. A central feature of many models of the working memory system is a domain-general executive attention, sometimes called a central executive, which regulates other components of the system (Baddeley & Hitch, 1974; Cowan, 1999). We argue that this attentional component forms the basis of the WMC–Gf relationship.

@@ -24,7 +24,8 @@ tags:
 - jtsukahara
 featured: true
 
-projects: []
+projects: 
+  - ac-cogability
 slides: 
 
 # links:
