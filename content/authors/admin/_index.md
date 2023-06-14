@@ -75,7 +75,7 @@ highlight_name: true
 I am currently a post-doctoral researcher in the [Attention & Working Memory Lab](https://englelab.gatech.edu) at Georgia Tech working with [Randy Engle](https://englelab.gatech.edu/engle.html).
 {style="text-align: justify;"}
 
-As a cognitive psychologist and amateur Buddhist contemplative, I am curious about the ways in which we use our attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways. 
+As a cognitive psychologist and practicing Buddhist contemplative, I am curious about the ways in which we use our attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways. 
 {style="text-align: justify;"}
 
 Currently my research focuses on individual differences in the ability to control attention and how that relates to cognitive abilities, sustained attention, pupil size, and the locus coeruleus-norepinephrine system. 
