@@ -80,4 +80,14 @@ As a cognitive psychologist and practicing Buddhist contemplative, I am curious 
 
 Currently my research focuses on individual differences in the ability to control attention and how that relates to cognitive abilities, sustained attention, pupil size, and the locus coeruleus-norepinephrine system. 
 
+## A little more about me
+
+I am originally from Seattle, WA. I will always consider Washington State as my home. I earned my B.A. in Behavioral Neuroscience at Western Washington University. This is where I found my interests in cognitive psychology. I took a year off after college. During that year off I particpated in an 8-week silent meditation retreat on Shamatha and the Four Immeasurables in Phuket, Thailand with my teacher Alan Wallace
+
+From there I went on to do a 2 year M.A. program in General Experimental Psychology at California State University, San Bernardino (CSUSB). At CSUSB I worked with Dr. Hideya Koshino doing research on selective attention and working memory.
+
+I was, then, accepted into Randy Engle’s lab as a Ph.D. student at Georgia Tech. My current research in the lab involves investigating the nature of attention control with the use of pupillometry. I make use of the R statistical programming language to analyze data in a way that is most consistent with open science and reproducibility practices. I have developed several R Packages relevant to the lab's research; see below.
+
+Outside of psychology, my interests include Buddhist spiritual practice, hiking, camping, riding my bicycle around town, and photography.
+
 {style="text-align: justify;"}
