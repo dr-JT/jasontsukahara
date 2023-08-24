@@ -2,7 +2,7 @@
 title: Attention Control and Cognition
 date: '2022-08-25T00:00:00Z'
 
-summary: The ability to control our attention is critical to guiding our thoughts and behaviors in a purposeful and goal-driven manner. I explore this aspect of attention control by studying how people differ on their ability to control attention and how that predicts other cognitive and perceptual abilities.
+summary: I explore this aspect of attention control by studying how people differ on their ability to control attention and how that predicts other cognitive and perceptual abilities.
     
 tags:
   - Research

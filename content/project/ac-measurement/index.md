@@ -2,7 +2,7 @@
 title: The Measurement of Attention Control
 date: '2022-08-25T00:00:00Z'
 
-summary: Measurement and theory are entwined; without adequate measurement, theoretical conclusions rest on tenuous ground. I study the measurement of people's ability to control their attention and have developed novel tasks that are both reliable and valid measures of attention control.
+summary: This area of my research focuses on developing novel tasks that are both reliable and valid measures of attention control.
 
 tags:
   - Research

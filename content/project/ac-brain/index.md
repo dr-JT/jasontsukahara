@@ -2,7 +2,7 @@
 title: Brain Mechanisms of Attention Control
 date: '2022-09-25T00:00:00Z'
 
-summary: To better understand the nature of attention control and why it is highly predictive of a wide-range of behaviors we need to discover the brain mechanisms underlying such differences. I believe the locus coeruleus-norepinephrine system is central to explaining brain mechanisms underlying attention control ability.
+summary: I am currently conducting a large-sample (N = 200+) fMRI study to investigate the brain mechanisms underlying differences in the ability to control attention.
     
 tags:
   - Research
@@ -22,7 +22,7 @@ slides:
 
 ## Latest Updates
 
-I am currently conducting a large-sample (N = 200+) fMRI study to investigate the relationship between attention control, functional connectivity, and the locus coeruleus-norepinephrine system.
+In the process of data collection and preliminary data analysis. Preliminary findings are promising, showing differences in functional connectivity and pupil size for high and low attention control individuals.
 
 ## Description
 

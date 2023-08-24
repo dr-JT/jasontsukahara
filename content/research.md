@@ -5,7 +5,7 @@ type: landing
 sections: 
   - block: portfolio
     content:
-      title: Projects
+      title: Research Areas
       text: 
       filters:
         folders:

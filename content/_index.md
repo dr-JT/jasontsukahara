@@ -12,35 +12,17 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: My research focuses on the control of attention and its role in mind and life. <br><br>Read more about me [here](/jasontsukahara)
-      
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-      archive:
-        enable: true
-        text: See all publications
-        link: publication/
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      columns: '1'
-      view: list
   
   - block: portfolio
     id: projects
     content:
-      title: Featured Projects
+      title: Active Research Areas
       text: 
       filters:
         folders:
           - project
         # Exclude content with these tags
-        exclude_tags: [R Package]
+        exclude_tags: [R Package, guide]
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -55,17 +37,35 @@ sections:
       view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
+      
+  - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+      archive:
+        enable: true
+        text: See all publications
+        link: publication/
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      columns: '1'
+      view: list
           
   - block: portfolio
     id: rpackages
     content:
-      title: Featured R Packages
+      title: R Packages
       text: 
       filters:
         folders:
           - project
         # Exclude content with these tags
-        exclude_tags: [Research]
+        exclude_tags: [Research, guide]
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -78,6 +78,31 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: masonry
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: true
+      
+  - block: portfolio
+    id: teaching
+    content:
+      title: Currently Teaching
+      text: 
+      filters:
+        folders:
+          - course
+        # Exclude content with these tags
+        exclude_tags: [inactive]
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: 2
       # For Showcase view, flip alternate rows?
       flip_alt_rows: true
       
