@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: 'Google Scholar Citation Info ([link](https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en))'
+subtitle: 'Google Scholar Citation Info ([View Profile](https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en))'
 cms_exclude: true
 
 # View.

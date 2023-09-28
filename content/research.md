@@ -6,7 +6,7 @@ sections:
   - block: portfolio
     content:
       title: Research Areas
-      text: 
+      subtitle: <a href="https://osf.io/v6thw/" target="_blank">Data and Scripts Available Here</a>
       filters:
         folders:
           - project

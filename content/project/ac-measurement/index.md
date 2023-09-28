@@ -20,6 +20,26 @@ url_video: ''
 slides: 
 ---
 
+## Measures of Attention Control
+
+Toolbox tasks: <a href="https://englelab.gatech.edu/toolboxtasks.html" target="_blank">Download tasks here</a>
+
+- Sustained attention-to-cue task
+
+- Antisaccade
+
+- Selective Visual Arrays
+
+- Stroop with an adaptive response deadline
+
+Three-minute Squared tasks: <a href="https://englelab.gatech.edu/squaredtasks.html" target="_blank">Download tasks here</a>
+
+- Flanker Squared
+
+- Stroop Squared
+
+- Simon Squared
+
 ## Latest Updates
 
 I am currently brainstorming research ideas for the next data collection study.

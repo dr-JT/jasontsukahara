@@ -2,7 +2,7 @@
 title: useRguide
 summary: Provides training in the basics of how to use R, the tidyverse, and tools for how to process and analyze data in our lab.
 tags:
-  - guide
+  - R Package
 date: '2022-08-25T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
