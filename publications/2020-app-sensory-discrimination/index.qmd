@@ -21,7 +21,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: ./publications/2020-app-sensory-discrimination/2020-app-sensory-discrimination.pdf
+  url: /publications/2020-app-sensory-discrimination/2020-app-sensory-discrimination.pdf
 - icon: file-code
   name: Code
   url: https://osf.io/hsqru/
