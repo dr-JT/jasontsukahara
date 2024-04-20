@@ -2,13 +2,13 @@
 title: "Jason Tsukahara, PhD"
 pagetitle: "Jason Tsukahara, PhD"
 subtitle: "Post-Doctoral Researcher in Cognitive Psychology at Georgia Tech"
-image: assets/img/profile_photo.jpeg
+image: images/profile_photo.jpeg
 
 twitter-card:
     title: Jason Tsukahara, PhD
     description: |
       I do research in the area of cognitive psychology with a focus on understanding the nature and potential of our ability to focus our attention.
-    image: assets/img/profile_photo.jpeg
+    image: images/profile_photo.jpeg
 
 about:
   template: solana
@@ -47,15 +47,15 @@ listing:
 - id: rpackages
   contents:
     - path: https://englelab.github.io/englelab/index.html
-      image: ../assets/img/englelab.png
+      image: images/englelab.png
       title: "englelab"
       description: "Helpful functions for processing and scoring complex-span and attention control tasks downloaded from the EngleLab."
     - path: https://dr-jt.github.io/semoutput/
-      image: ../assets/img/semoutput.png
+      image: images/semoutput.png
       title: "semoutput"
       description: "An R package to create nice looking output for CFA and SEM analyses using lavaan and semPlot packages."
     - path: https://dr-jt.github.io/pupillometry/index.html
-      image: ../assets/img/pupillometry.png
+      image: images/pupillometry.png
       title: "pupillometry"
       description: "An easy to use R package to preprocess pupil data for researchers that are not experts in either pupillometry or working with data in R."
     - path: https://dr-jt.github.io/r-for-psychology-students/

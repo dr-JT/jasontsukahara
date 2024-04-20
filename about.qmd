@@ -5,7 +5,7 @@ subtitle: "Post-Doctoral Researcher <br> Georgia Tech"
 about:
   id: hero-heading
   template: trestles
-  image: assets/img/profile_photo.jpeg
+  image: images/profile_photo.jpeg
   image-shape: round
   image-width: 20em
   links:
