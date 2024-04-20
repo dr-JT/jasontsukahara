@@ -1,0 +1,31 @@
+---
+title: "Transcutaneous vagus nerve stimulation via tragus or cymba conchae: Are its psychophysiological effects dependent on the stimulation area?"
+
+author:
+- name: Uirassu Borges
+- name: Marie Pfannenstiel
+- name: Jason S. Tsukahara
+- name: Sylvain Laborde
+- name: Stefanie Klatt
+- name: Markus Raab
+
+year: "2021"
+date: "2021-01-01"
+publication: "International Journal of Psychophysiology"
+doi: "10.1016/j.ijpsycho.2021.01.003"
+
+pub-type: "Article"
+icon-type: file-richtext
+project:
+  - ac-brain
+
+links:
+- icon: file-pdf-fill
+  name: PDF
+  url: 2021-ijp-vagus-pupil.pdf
+  
+categories:
+  - Pupillometry
+  - Measurement
+  - Empirical Study
+---

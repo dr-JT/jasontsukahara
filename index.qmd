@@ -1,0 +1,125 @@
+---
+title: "Jason Tsukahara, PhD"
+pagetitle: "Jason Tsukahara, PhD"
+subtitle: "Post-Doctoral Researcher in Cognitive Psychology at Georgia Tech"
+image: assets/img/profile_photo.jpeg
+
+twitter-card:
+    title: Jason Tsukahara, PhD
+    description: |
+      I do research in the area of cognitive psychology with a focus on understanding the nature and potential of our ability to focus our attention.
+    image: assets/img/profile_photo.jpeg
+
+about:
+  template: solana
+  image-width: 24em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - icon: github
+      href: https://www.github.com/spcanelon/dr-JT
+    - icon: twitter
+      href: https://twitter.com/jasontsukahara   
+      
+listing: 
+- id: research
+  contents: research
+  exclude:
+    home-page: "yes"
+  sort: date desc
+  type: grid
+  grid-columns: 3
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, description, image]
+  max-items: 3
+  image-height: "200"
+  
+- id: publications
+  contents: publications
+  exclude:
+    home-page: "yes"
+  sort: date desc
+  template: assets/pub-listing.ejs
+  max-items: 3
+  
+- id: rpackages
+  contents:
+    - path: https://englelab.github.io/englelab/index.html
+      image: ../assets/img/englelab.png
+      title: "englelab"
+      description: "Helpful functions for processing and scoring complex-span and attention control tasks downloaded from the EngleLab."
+    - path: https://dr-jt.github.io/semoutput/
+      image: ../assets/img/semoutput.png
+      title: "semoutput"
+      description: "An R package to create nice looking output for CFA and SEM analyses using lavaan and semPlot packages."
+    - path: https://dr-jt.github.io/pupillometry/index.html
+      image: ../assets/img/pupillometry.png
+      title: "pupillometry"
+      description: "An easy to use R package to preprocess pupil data for researchers that are not experts in either pupillometry or working with data in R."
+    - path: https://dr-jt.github.io/r-for-psychology-students/
+      title: "R Workshop for the Psychology Student"
+      subtitle: "[Online Workshop](https://dr-jt.github.io/r-for-psychology-students/){target='_blank'}"
+      description: "The purpose of this course is for you to gain a basic level of proficiency in 1) working with data, 2) data visualization, and 3) statistical computation in R."    
+  type: grid
+  grid-columns: 4
+  fields: [title, description, image]
+  filter-ui: false
+  image-align: left
+  image-height: 100%
+  
+page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="assets/index.css">
+resources:
+  - assets/index.css
+---
+
+ 
+
+ 
+
+::: {#hero-heading}
+I do research in the area of cognitive psychology with a focus on understanding the nature and potential of our ability to focus our attention, it's biological basis, and how it impacts our life and mind in meaningful ways.
+
+[Learn more about me →](about.html){.about-links .subtitle}
+:::
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+## Research Projects
+
+ 
+
+::: {#research}
+:::
+
+ 
+
+ 
+
+## Featured Publications
+
+ 
+
+::: {#publications}
+:::
+
+[See all publications →](/publications){.about-links .subtitle}
+
+## R Packages
+
+ 
+
+::: {#rpackages}
+:::

@@ -1,0 +1,45 @@
+---
+title: "Knowledge, attention, and psychomotor ability: A latent variable approach to understanding individual differences in simulated work performance"
+
+author:
+- name: Cody A. Mashburn
+- name: Alexander P. Burgoyne
+- name: Jason S. Tsukahara
+- name: Richard Pak
+- name: Joseph T. Coyne
+- name: Ciara Sibley
+- name: Cyrus Foroughi
+- name: Randall W. Engle
+
+year: "2023"
+date: "2023-06-03"
+publication: "PsyArxiv"
+doi: "10.31234/osf.io/gdmtf"
+
+pub-type: "Preprint"
+icon-type: file-richtext
+project:
+  - ac-cogability
+
+links:
+- icon: file-pdf-fill
+  name: PDF
+  url: https://psyarxiv.com/gdmtf/
+- icon: file-code
+  name: Code
+  url: https://osf.io/938cu/
+- icon: database
+  name: Data
+  url: https://osf.io/938cu/
+  
+categories:
+  - Navy
+  - Higher-Order Cognition
+  - Empirical Study
+  
+image: featured.png
+---
+
+## Abstract
+
+Across two studies (N \> 800), we investigated the contributions of acquired knowledge, attention control, and psychomotor ability to performance in complex simulated work paradigms. Study 1 was conducted online and included three-minute “Squared” tests of attention control and two tests of acquired knowledge, the Wonderlic and the Armed Forces Qualification Test. Although all measures predicted performance at the bivariate level, hierarchical regression analyses and structural equation modeling revealed that acquired knowledge did not account for significant incremental validity above and beyond attention control, whereas attention control accounted for substantial variance above and beyond the other predictors. Study 2 was conducted in-lab and included tests of attention control and versions of two official U.S. Military selection tests; the Armed Forces Qualification Test and the Performance-Based Measures assessment, a subtest of the Aviation Selection Test Battery. Attention control fully mediated the relationship between the Performance Based Measures and simulated work performance. Attention control measures also demonstrated slightly smaller gender differences in performance than the Performance Based Measures. We discuss the implications of these results from theoretical and applied perspectives.

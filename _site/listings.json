@@ -1,0 +1,114 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/research/ac-brain/index.html",
+      "/research/ac-cogability/index.html",
+      "/research/ac-measurement/index.html",
+      "/publications/2023-ac-psychomotor/index.html",
+      "/publications/2023-sact-2/index.html",
+      "/publications/2023-brm-toolbox-2/index.html",
+      "/publications/2023-jepg-squared-intro/index.html",
+      "/publications/2022-chwml-book-chapter/index.html",
+      "/publications/2022-int-pot/index.html",
+      "/publications/2021-tr-rationality/index.html",
+      "/publications/2021-pnas-intelligence-lc/index.html",
+      "/publications/2021-cog-pupil-luminance-reply/index.html",
+      "/publications/2021-jepg-visualarrays/index.html",
+      "/publications/2021-sa-pupil/index.html",
+      "/publications/2021-cog-pupil-luminance/index.html",
+      "/publications/2021-ijp-vagus-pupil/index.html",
+      "/publications/2021-jepg-toolbox-1/index.html",
+      "/publications/2020-lm-diff-exp/index.html",
+      "/publications/2020-wms-book-chapter/index.html",
+      "/publications/2020-app-sensory-discrimination/index.html",
+      "/publications/2016-cp-baseline-pupil-og/index.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2023-sact-2/index.html",
+      "/publications/2023-ac-psychomotor/index.html",
+      "/publications/2023-jepg-squared-intro/index.html",
+      "/publications/2023-brm-toolbox-2/index.html",
+      "/publications/2022-int-pot/index.html",
+      "/publications/2022-chwml-book-chapter/index.html",
+      "/publications/2021-ijp-vagus-pupil/index.html",
+      "/publications/2021-jepg-toolbox-1/index.html",
+      "/publications/2021-cog-pupil-luminance/index.html",
+      "/publications/2021-sa-pupil/index.html",
+      "/publications/2021-jepg-visualarrays/index.html",
+      "/publications/2021-cog-pupil-luminance-reply/index.html",
+      "/publications/2021-pnas-intelligence-lc/index.html",
+      "/publications/2021-tr-rationality/index.html",
+      "/publications/2020-app-sensory-discrimination/index.html",
+      "/publications/2020-wms-book-chapter/index.html",
+      "/publications/2020-lm-diff-exp/index.html",
+      "/publications/2016-cp-baseline-pupil-og/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/ac-brain/index.html",
+      "/research/ac-cogability/index.html",
+      "/research/ac-measurement/index.html"
+    ]
+  },
+  {
+    "listing": "/research/ac-brain/index.html",
+    "items": [
+      "/publications/2021-pnas-intelligence-lc/index.html",
+      "/publications/2021-cog-pupil-luminance-reply/index.html",
+      "/publications/2021-sa-pupil/index.html",
+      "/publications/2021-cog-pupil-luminance/index.html",
+      "/publications/2021-ijp-vagus-pupil/index.html",
+      "/publications/2016-cp-baseline-pupil-og/index.html"
+    ]
+  },
+  {
+    "listing": "/research/ac-cogability/index.html",
+    "items": [
+      "/publications/2023-ac-psychomotor/index.html",
+      "/publications/2023-sact-2/index.html",
+      "/publications/2022-chwml-book-chapter/index.html",
+      "/publications/2022-int-pot/index.html",
+      "/publications/2021-tr-rationality/index.html",
+      "/publications/2020-lm-diff-exp/index.html",
+      "/publications/2020-wms-book-chapter/index.html",
+      "/publications/2020-app-sensory-discrimination/index.html"
+    ]
+  },
+  {
+    "listing": "/research/ac-measurement/index.html",
+    "items": [
+      "/publications/2023-brm-toolbox-2/index.html",
+      "/publications/2023-jepg-squared-intro/index.html",
+      "/publications/2021-jepg-visualarrays/index.html",
+      "/publications/2021-jepg-toolbox-1/index.html",
+      "/publications/2020-lm-diff-exp/index.html",
+      "/publications/2020-wms-book-chapter/index.html"
+    ]
+  },
+  {
+    "listing": "/r_projects/index.html",
+    "items": [
+      "/r_projects/englelab/index.html",
+      "/r_projects/pupillometry/index.html",
+      "/r_projects/semoutput/index.html"
+    ]
+  },
+  {
+    "listing": "/r_packages/index.html",
+    "items": []
+  },
+  {
+    "listing": "/rpackages.html",
+    "items": []
+  },
+  {
+    "listing": "/teaching/index.html",
+    "items": []
+  }
+]

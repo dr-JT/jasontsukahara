@@ -1,0 +1,30 @@
+---
+title: "Baseline pupil size is related to fluid intelligence: A reply to Unsworth et al. (2021)"
+
+author:
+- name: Jason S. Tsukahara
+- name: Christopher Draheim
+- name: Randall W. Engle
+
+year: "2021"
+date: "2021-10-01"
+publication: "Cognition"
+doi: "10.1016/j.cognition.2021.104826"
+
+pub-type: "Article"
+icon-type: file-richtext
+project:
+  - ac-brain
+
+links:
+- icon: file-pdf-fill
+  name: PDF
+  url: 2021-cog-pupil-luminance-reply.pdf
+  
+categories:
+  - Pupillometry
+  - Measurement
+  - Response
+
+image: featured.png
+---

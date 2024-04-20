@@ -1,0 +1,32 @@
+---
+title: "Pupil Size Is a Marker of Intelligence"
+
+author:
+- name: Jason S. Tsukahara
+- name: Alexandar P. Burgoyne
+- name: Randall W. Engle
+
+year: "2021"
+date: "2021-06-01"
+publication: "Scientific American Mind"
+doi: ""
+
+pub-type: "Popular Piece"
+icon-type: newspaper
+project:
+  - ac-brain
+
+links:
+- icon: newspaper
+  name: Link
+  url: https://www.scientificamerican.com/article/pupil-size-is-a-marker-of-intelligence/
+  
+categories:
+  - Pupillometry
+  - Locus Coeruleus
+  - Popular Writing
+
+image: featured.png
+
+summary: It has been said that “the eyes are the window to the soul,” but new research suggests that they may be a window to the brain as well.
+---

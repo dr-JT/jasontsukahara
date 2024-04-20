@@ -1,0 +1,46 @@
+---
+title: "R Packages"
+description: |
+  I have developed several R packages to aid in processing and analyzing data
+  
+home-page: "yes"
+
+listing: 
+  contents:
+    - path: https://englelab.github.io/englelab/index.html
+      image: ../assets/img/englelab.png
+      title: "englelab"
+      description: "Helpful functions for processing and scoring complex-span and attention control tasks downloaded from the EngleLab."
+    - path: https://dr-jt.github.io/semoutput/
+      image: ../assets/img/semoutput.png
+      title: "semoutput"
+      description: "An R package to create nice looking output for CFA and SEM analyses using lavaan and semPlot packages."
+    - path: https://dr-jt.github.io/pupillometry/index.html
+      image: ../assets/img/pupillometry.png
+      title: "pupillometry"
+      description: "An easy to use R package to preprocess pupil data for researchers that are not experts in either pupillometry or working with data in R."
+    - path: https://dr-jt.github.io/r-for-psychology-students/
+      title: "R Workshop for the Psychology Student"
+      subtitle: "[Online Workshop](https://dr-jt.github.io/r-for-psychology-students/){target='_blank'}"
+      description: "The purpose of this course is for you to gain a basic level of proficiency in 1) working with data, 2) data visualization, and 3) statistical computation in R."    
+  type: grid
+  grid-columns: 4
+  fields: [title, description, image]
+  filter-ui: false
+  image-align: left
+  image-height: 100%
+  
+format: 
+  html: 
+    page-layout: full
+    code-overflow: wrap
+    template-partials: 
+      - _partials/title-block-link-buttons/title-block.html
+
+title-block-banner: false
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/listing-default.css">
+resources:
+  - ../assets/listing-default.css
+---

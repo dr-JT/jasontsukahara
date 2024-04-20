@@ -1,0 +1,40 @@
+---
+title: "Attention control and process overlap theory: Searching for cognitive processes underpinning the positive manifold"
+
+author:
+- name: Alexander P. Burgoyne
+- name: Cody A. Mashburn
+- name: Jason S. Tsukahara
+- name: Randall W. Engle
+
+year: "2022"
+date: "2022-03-01"
+publication: "Intelligence"
+doi: "10.1016/j.intell.2022.101629"
+
+pub-type: "Article"
+icon-type: file-richtext
+project:
+  - ac-cogability
+
+links:
+- icon: file-pdf-fill
+  name: PDF
+  url: 2022-int-pot.pdf
+- icon: database
+  name: Data
+  url: https://osf.io/be34k/
+  
+categories:
+  - Theory
+  - Higher-Order Cognition
+  - Empirical Study
+
+summary: After describing the steps our lab has taken to improve the measurement of attention control, we review evidence suggesting that attention control can explain many of the positive correlations between broad cognitive abilities, such as fluid intelligence, working memory capacity, and sensory discrimination ability.
+
+image: featured.png
+---
+
+## Abstract
+
+Process overlap theory provides a contemporary explanation for the positive correlations observed among cognitive ability measures, a phenomenon which intelligence researchers refer to as the positive manifold. According to process overlap theory, cognitive tasks tap domain-general executive processes as well as domain-specific processes, and correlations between measures reflect the degree of overlap in the cognitive processes that are engaged when performing the tasks. In this article, we discuss points of agreement and disagreement between the executive attention framework and process overlap theory, with a focus on attention control, the domain-general ability to maintain focus on task-relevant information and disengage from irrelevant and no-longer relevant information. After describing the steps our lab has taken to improve the measurement of attention control, we review evidence suggesting that attention control can explain many of the positive correlations between broad cognitive abilities, such as fluid intelligence, working memory capacity, and sensory discrimination ability. Furthermore, when these latent variables are modeled under a higher-order g factor, attention control has the highest loading on g, indicating a strong relationship between attention control and domain-general cognitive ability. In closing, we reflect on the challenge of directly measuring cognitive processes and provide suggestions for future research.

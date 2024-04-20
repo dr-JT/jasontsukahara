@@ -1,0 +1,37 @@
+---
+title: "Understanding the relationship between rationality and intelligence: A latent-variable approach"
+
+author:
+- name: Alexander P. Burgoyne
+- name: Cody A. Mashburn
+- name: Jason S. Tsukahara
+- name: Zach D. Hambrick
+- name: Randall W. Engle
+
+year: "2021"
+date: "2021-11-26"
+publication: "Thinking and Reasoning"
+doi: "10.1080/13546783.2021.2008003"
+
+pub-type: "Article"
+icon-type: file-richtext
+project:
+  - ac-cogability
+
+links:
+- icon: file-pdf-fill
+  name: PDF
+  url: 2021-tr-rationality.pdf
+  
+categories:
+  - Higher-Order Cognition
+  - Empirical Study
+
+image: featured.png
+
+summary: We found that attention control fully accounted for the relationship between working memory capacity and rationality, and partially accounted for the relationship between fluid intelligence and rationality.
+---
+
+## Abstract
+
+A hallmark of intelligent behavior is rationality – the disposition and ability to think analytically to make decisions that maximize expected utility or follow the laws of probability. However, the question remains as to whether rationality and intelligence are empirically distinct, as does the question of what cognitive mechanisms underlie individual differences in rationality. In a sample of 331 participants, we assessed the relationship between rationality and intelligence. There was a common ability underpinning performance on some, but not all, rationality tests. Latent factors representing rationality and general intelligence were strongly correlated (r = .54), but their correlation fell well short of unity. Rationality correlated significantly with fluid intelligence (r = .56), working memory capacity (r = .44), and attention control (r = .49). Attention control fully accounted for the relationship between working memory capacity and rationality, and partially accounted for the relationship between fluid intelligence and rationality. We conclude by speculating about factors rationality tests may tap that other cognitive ability tests miss, and outline directions for further research.

@@ -1,0 +1,41 @@
+---
+title: "Fluid intelligence and the locus coeruleus-norepinephrine system"
+
+author:
+- name: Jason S. Tsukahara
+- name: Randall W. Engle
+
+year: "2021"
+date: "2021-11-10"
+publication: "Proceedings of the National Academy of Sciences"
+doi: "10.1073/pnas.2110630118"
+
+pub-type: "Article"
+icon-type: file-richtext
+project:
+  - ac-brain
+
+links:
+- icon: file-pdf-fill
+  name: PDF
+  url: 2021-pnas-intelligence-lc.pdf
+- icon: file-code
+  name: Code
+  url: https://osf.io/2pu3q/
+- icon: database
+  name: Data
+  url: https://osf.io/2pu3q/
+  
+categories:
+  - Pupillometry
+  - Locus Coeruleus
+  - Theory
+
+image: featured.png
+
+summary: We review the relevance of the locus coeruleus-norepinephrine system at all levels of brain function. Based on this review and our data on pupil size, we propose that it plays a fundamental role in fluid intellignece and the executive control of attention.
+---
+
+## Abstract
+
+The last decade has seen significant progress identifying genetic and brain differences related to intelligence. However, there remain considerable gaps in our understanding of how cognitive mechanisms that underpin intelligence map onto various brain functions. In this article, we argue that the locus coeruleus-norepinephrine system is essential for understanding the biological basis of intelligence. We review evidence suggesting that the locus coeruleus–norepinephrine system plays a central role at all levels of brain function, from metabolic processes to the organization of large-scale brain networks. We connect this evidence with our executive attention view of working-memory capacity and fluid intelligence and present analyses on baseline pupil size, an indicator of locus coeruleus activity. Using a latent variable approach, our analyses showed that a common executive attention factor predicted baseline pupil size. Additionally, the executive attention function of disengagement––not maintenance––uniquely predicted baseline pupil size. These findings suggest that the ability to control attention may be important for understanding how cognitive mechanisms of fluid intelligence map onto the locus coeruleus–norepinephrine system. We discuss how further research is needed to better understand the relationships between fluid intelligence, the locus coeruleus–norepinephrine system, and functionally organized brain networks.

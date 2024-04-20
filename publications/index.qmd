@@ -1,0 +1,118 @@
+---
+title: "Publications" 
+  
+home-page: "yes"
+
+listing: 
+  - id: "preprints"
+    contents: "**.qmd"
+    template: ../assets/pub-listing.ejs
+    include: 
+      pub-type: "Preprint"
+    sort: date
+    categories: true
+    
+  - id: "2023"
+    contents: "**.qmd"
+    template: ../assets/pub-listing.ejs
+    include: 
+      year: "2023"
+    exclude:
+      pub-type: "Preprint"
+    sort: date
+    
+  - id: "2022"
+    contents: "**.qmd"
+    template: ../assets/pub-listing.ejs
+    include: 
+      year: "2022"
+    sort: date
+    
+  - id: "2021"
+    contents: "**.qmd"
+    template: ../assets/pub-listing.ejs
+    include: 
+      year: "2021"
+    sort: date
+    
+  - id: "2020"
+    contents: "**.qmd"
+    template: ../assets/pub-listing.ejs
+    include: 
+      year: "2020"
+    sort: date
+    
+  - id: "2016"
+    contents: "**.qmd"
+    template: ../assets/pub-listing.ejs
+    include: 
+      year: "2016"
+    sort: date
+
+image: false
+
+execute:
+  echo: false
+  eval: true
+
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/listing-default.css">
+resources:
+  - ../assets/listing-default.css
+  
+filters:
+  - schocastics/academicons
+---
+
+```{r}
+library(scholar)
+id <- "393wE14AAAAJ"
+
+profile <- get_profile(id)
+citations <- get_citation_history(id)
+```
+
+ 
+
+::: {style="text-align: center"}
+{{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en){target="_blank"}    
+
+Citations: `{r} profile$total_cites`          h-index: `{r} profile$h_index`
+:::
+
+ 
+
+## Preprints {style="text-align: left"}
+
+::: {#preprints}
+:::
+
+## 2023 {style="text-align: left"}
+
+::: {#2023}
+:::
+
+## 2022 {style="text-align: left"}
+
+::: {#2022}
+:::
+
+## 2021 {style="text-align: left"}
+
+::: {#2021}
+:::
+
+## 2020 {style="text-align: left"}
+
+::: {#2020}
+:::
+
+## 2016 {style="text-align: left"}
+
+::: {#2016}
+:::
