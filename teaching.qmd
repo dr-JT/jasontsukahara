@@ -57,10 +57,13 @@ listing:
   sort-ui: false
   filter-ui: false
   
-  
 format: 
   html: 
     page-layout: full
+    code-overflow: wrap
+    template-partials: 
+      - _partials/title-block-link-buttons/title-block.html
+    
 title-block-banner: false
 
 header-includes: >

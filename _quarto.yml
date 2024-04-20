@@ -22,7 +22,7 @@ website:
         text: Publications
       - href: rpackages.qmd
         text: R Packages
-      - href: teaching/index.qmd
+      - href: teaching.qmd
         text: Teaching
       - href: assets/jtsukahara_cv.pdf
         text: CV
