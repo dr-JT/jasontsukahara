@@ -18,8 +18,10 @@ about:
   links:
     - icon: github
       href: https://www.github.com/spcanelon/dr-JT
+    - icon: google-scholar
+      href: https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en  
     - icon: twitter
-      href: https://twitter.com/jasontsukahara   
+      href: https://twitter.com/jasontsukahara  
       
 listing: 
 - id: research
@@ -123,3 +125,9 @@ I do research in the area of cognitive psychology with a focus on understanding 
 
 ::: {#rpackages}
 :::
+
+ 
+
+ 
+
+ 
