@@ -3,13 +3,13 @@ project:
 
 website:
   title: "Jason Tsukahara"
-#  site-url: https://silviacanelon.com
+  site-url: https://jasontsukahara.com
 #  favicon: assets/silvia/img/logo_rounded.svg
   page-navigation: true
   back-to-top-navigation: true
   twitter-card: true
   search: false
-  
+
   navbar:
 #    logo: assets/silvia/img/logo_rounded.svg
     pinned: true
@@ -26,8 +26,8 @@ website:
         text: Teaching
       - href: assets/jtsukahara_cv.pdf
         text: CV
-  
-  # page-footer:  
+
+  # page-footer:
   #   left: >-
   #    &#169; 2023 Silvia Canelón &#8729; Made with [Quarto](https://quarto.org)
   #   center: |
@@ -37,8 +37,8 @@ website:
   #     <a class="link-dark me-1" href="https://orcid.org/0000-0003-1709-1394" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
   #     <a class="link-dark me-1" href="https://scholar.google.com/citations?user=GAzkvpcAAAAJ&hl=en&oi=ao" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
   #     <a class="link-dark me-1" href="https://linkedin.com/in/spcanelon" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
-  # 
-  #   right: 
+  #
+  #   right:
   #     - text: "Accessibility"
   #       aria-label: "Accessibility Commitment"
   #       href: accessibility.qmd
@@ -50,10 +50,10 @@ website:
   #       href: license.qmd
   #     - icon: rss
   #       href: blog/index.xml
-        
+
 format:
   html:
-    theme: 
+    theme:
       light:
         - cosmo
         - assets/custom-theme.scss
