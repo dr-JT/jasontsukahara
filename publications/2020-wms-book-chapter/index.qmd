@@ -20,7 +20,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2020-wms-book-chapter.pdf
+  url: /publications/2020-wms-book-chapter/2020-wms-book-chapter.pdf
   
 categories:
   - Measurement

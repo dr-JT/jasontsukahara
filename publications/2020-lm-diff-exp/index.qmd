@@ -20,7 +20,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2020-lm-diff-exp.pdf
+  url: /publications/2020-lm-diff-exp/2020-lm-diff-exp.pdf
   
 categories:
   - Measurement

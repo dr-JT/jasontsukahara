@@ -19,7 +19,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2021-cog-pupil-luminance-reply.pdf
+  url: /publications/2021-cog-pupil-luminance-reply/2021-cog-pupil-luminance-reply.pdf
   
 categories:
   - Pupillometry

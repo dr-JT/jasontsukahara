@@ -18,7 +18,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2021-pnas-intelligence-lc.pdf
+  url: /publications/2021-pnas-intelligence-lc/2021-pnas-intelligence-lc.pdf
 - icon: file-code
   name: Code
   url: https://osf.io/2pu3q/

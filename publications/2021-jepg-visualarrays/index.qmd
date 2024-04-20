@@ -23,7 +23,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2021-jepg-visualarrays.pdf
+  url: /publications/2021-jepg-visualarrays.pdf
 - icon: file-code
   name: Code
   url: https://osf.io/23nzu/

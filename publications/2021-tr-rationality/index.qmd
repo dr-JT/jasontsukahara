@@ -21,7 +21,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2021-tr-rationality.pdf
+  url: /publications/2021-tr-rationality/2021-tr-rationality.pdf
   
 categories:
   - Higher-Order Cognition

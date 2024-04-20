@@ -22,7 +22,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2022-chwml-book-chapter.pdf
+  url: /publications/2022-chwml-book-chapter/2022-chwml-book-chapter.pdf
   
 categories:
   - Measurement

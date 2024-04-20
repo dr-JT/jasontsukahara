@@ -20,7 +20,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2023-jepg-squared-intro.pdf
+  url: publications/2023-jepg-squared-intro/2023-jepg-squared-intro.pdf
 - icon: file-code
   name: Code
   url: https://osf.io/cdme2/

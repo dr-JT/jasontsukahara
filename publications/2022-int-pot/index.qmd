@@ -20,7 +20,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2022-int-pot.pdf
+  url: /publications/2022-int-pot/2022-int-pot.pdf
 - icon: database
   name: Data
   url: https://osf.io/be34k/

@@ -19,7 +19,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2023-brm-toolbox-2.pdf
+  url: /publications/2023-brm-toolbox-2/2023-brm-toolbox-2.pdf
 - icon: file-code
   name: Code
   url: https://osf.io/me58c/

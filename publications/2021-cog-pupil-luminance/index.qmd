@@ -18,7 +18,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2021-cog-pupil-luminance.pdf
+  url: /publications/2021-cog-pupil-luminance/2021-cog-pupil-luminance.pdf
 - icon: file-code
   name: Code
   url: https://osf.io/ajm4d/

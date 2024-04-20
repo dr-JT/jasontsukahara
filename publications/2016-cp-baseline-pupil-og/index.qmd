@@ -19,7 +19,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2016-cp-baseline-pupil-og/2016-cp-baseline-pupil-og.pdf
+  url: /publications/2016-cp-baseline-pupil-og/2016-cp-baseline-pupil-og.pdf
   
 categories:
   - Pupillometry

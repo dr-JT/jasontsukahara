@@ -18,7 +18,8 @@ about:
   links:
     - icon: github
       href: https://www.github.com/spcanelon/dr-JT
-    - icon: google-scholar
+    - text: "{{< ai google-scholar >}}"
+      aria-label: "Google Scholar"
       href: https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en  
     - icon: twitter
       href: https://twitter.com/jasontsukahara  

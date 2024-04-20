@@ -21,7 +21,7 @@ project:
 links:
 - icon: file-pdf-fill
   name: PDF
-  url: 2021-jepg-toolbox-1.pdf
+  url: /publicatoins/2021-jepg-toolbox-1/2021-jepg-toolbox-1.pdf
   
 categories:
   - Measurement
