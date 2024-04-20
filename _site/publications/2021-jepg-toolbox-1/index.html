@@ -59,7 +59,9 @@ ul.task-list li input[type="checkbox"] {
 
 <meta name="twitter:title" content="Jason Tsukahara - A toolbox approach to improving the measurement of attention control">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="featured.png">
+<meta name="twitter:image" content="https://jasontsukahara.com/publications/2021-jepg-toolbox-1/featured.png">
+<meta name="twitter:image-height" content="340">
+<meta name="twitter:image-width" content="612">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -90,6 +92,18 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="../../publications/index.html"> 
 <span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../rpackages.html"> 
+<span class="menu-text">R Packages</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../teaching/index.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../assets/jtsukahara_cv.pdf"> 
+<span class="menu-text">CV</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -253,7 +267,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/jasontsukahara\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
