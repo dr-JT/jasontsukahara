@@ -13,6 +13,7 @@ doi: "10.3758/s13428-023-02140-2"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-measurement
   
@@ -20,7 +21,7 @@ links:
 - icon: file-pdf-fill
   name: PDF
   url: /publications/2023-brm-toolbox-2/2023-brm-toolbox-2.pdf
-- icon: file-code
+- icon: code-square
   name: Code
   url: https://osf.io/me58c/
 - icon: database

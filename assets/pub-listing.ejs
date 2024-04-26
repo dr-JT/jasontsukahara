@@ -5,7 +5,8 @@
 <ul class="publications" class="list">
 <% for (const item of items) { %>
 <li  <%= metadataAttrs(item) %>>
-  <h3 class="bi bi-<%= item['icon-type'] %>">
+  <h3>
+    <i class="bi bi-<%= item['icon-type'] %>" style="color: #<%= item['color'] %>"></i> 
     <a href="<%= item.path %>"><%= item.title %></a>
   </h3>
   
@@ -19,7 +20,7 @@
   
   <div style="margin-top: .5em; padding-left: 2.4em">
     <% for (const link of item.links) { %>
-      <a href="<%= link.url %>" class="btn btn-secondary text-capitalize" style="font-size: .95em" target="_blank">
+      <a href="<%= link.url %>" class="btn btn-secondary-<%= link.name %> text-capitalize" style="font-size: .95em" target="_blank">
         <i class="bi bi-<%= link.icon %> me-1"></i> <%= link.name %>
       </a>
     <% } %>

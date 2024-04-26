@@ -12,6 +12,7 @@ doi: "10.1073/pnas.2110630118"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-brain
 
@@ -19,7 +20,7 @@ links:
 - icon: file-pdf-fill
   name: PDF
   url: /publications/2021-pnas-intelligence-lc/2021-pnas-intelligence-lc.pdf
-- icon: file-code
+- icon: code-square
   name: Code
   url: https://osf.io/2pu3q/
 - icon: database

@@ -15,6 +15,7 @@ doi: "10.1037/xge0000783"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-measurement
 

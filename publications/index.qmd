@@ -80,12 +80,12 @@ citations <- get_citation_history(id)
  
 
 ::: {style="text-align: center"}
-{{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en){target="_blank"}    
+{{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en){target="_blank"}
 
-Citations: `{r} profile$total_cites`          h-index: `{r} profile$h_index`
+Citations: `{r} profile$total_cites`
+
+h-index: `{r} profile$h_index` 
 :::
-
- 
 
 ## Preprints {style="text-align: left"}
 

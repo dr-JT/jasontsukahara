@@ -15,6 +15,7 @@ doi: "10.1080/13546783.2021.2008003"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-cogability
 

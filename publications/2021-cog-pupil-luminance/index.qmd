@@ -12,6 +12,7 @@ doi: "10.1016/j.cognition.2021.104643"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-brain
 
@@ -19,7 +20,7 @@ links:
 - icon: file-pdf-fill
   name: PDF
   url: /publications/2021-cog-pupil-luminance/2021-cog-pupil-luminance.pdf
-- icon: file-code
+- icon: code-square
   name: Code
   url: https://osf.io/ajm4d/
 - icon: database

@@ -13,6 +13,7 @@ doi: ""
 
 pub-type: "Popular Piece"
 icon-type: newspaper
+color: 0072B5FF
 project:
   - ac-brain
 

@@ -15,7 +15,8 @@ publication: "The Cambridge Handbook of Working Memory and Language"
 doi: "10.3758/s13414-020-02044-9"
 
 pub-type: "Chapter"
-icon-type: book
+icon-type: book-half
+color: 20854EFF
 project:
   - ac-cogability
 

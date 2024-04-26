@@ -12,7 +12,8 @@ publication: "Working memory: The state of the science"
 doi: "10.1093/oso/9780198842286.003.0007"
 
 pub-type: "Chapter"
-icon-type: book
+icon-type: book-half
+color: 20854EFF
 project:
   - ac-measurement
   - ac-cogability

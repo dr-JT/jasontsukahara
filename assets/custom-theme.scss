@@ -18,7 +18,8 @@ $accent-dark:                #AB965F;
 $body-color:                 #3C4B58;
 $body-bg:                    #FFFBF2;
 $body-secondary:             #005098;
-$link-color:                 #005098;
+
+// gold: #BDAA6D
 
 // Fonts
 
@@ -144,15 +145,55 @@ p code:not(.sourceCode), li code:not(.sourceCode), td code:not(.sourceCode) {
 
 // post links
 .btn-secondary {
-  color: $secondary;
+  color: $primary-dark;
   background: transparent;
   border-radius: 5px;
+  border-color: gray;
 }
 
 // contact form
 .btn-primary:hover {
   background-color: $secondary;
   border-color: $secondary;
+}
+
+.btn-secondary-PDF {
+  color: #BC3C29FF;
+  background: transparent;
+  border-radius: 5px;
+  border-color: gray;
+}
+
+.btn-secondary-PDF:hover {
+  color: white;
+  background-color: #BC3C29FF;
+  border-color: #BC3C29FF;
+}
+
+.btn-secondary-Code {
+  color: #20854EFF;
+  background: transparent;
+  border-radius: 5px;
+  border-color: gray;
+}
+
+.btn-secondary-Code:hover {
+  color: white;
+  background-color: #20854EFF;
+  border-color: #20854EFF;
+}
+
+.btn-secondary-Data {
+  color: #0072B5FF;
+  background: transparent;
+  border-radius: 5px;
+  border-color: gray;
+}
+
+.btn-secondary-Data:hover {
+  color: white;
+  background-color: #0072B5FF;
+  border-color: #0072B5FF;
 }
 
 // pagination
@@ -363,12 +404,13 @@ main .featured-image .title {
 
 .publications a {
   text-decoration: none;
+  padding-left: 1em;
 }
 
 .publications h3 {
     font-size: 1.3em;
     margin-bottom: .3em;
-    padding-left: 2em; /* Provides space for the icon */
+    padding-left: 0em; /* Provides space for the icon */
     position: relative; /* Necessary for absolute positioning of the icon */
     display: flex;
     align-items: center; /* Centers items vertically */
@@ -410,4 +452,8 @@ main .featured-image .title {
 .table>thead {
   border-top: black;
   border-bottom: black;
+}
+
+h3 > .bi {
+  color: inherit; /* This makes the icon inherit the color from the parent h3 tag */
 }

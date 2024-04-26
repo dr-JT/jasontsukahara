@@ -17,6 +17,7 @@ doi: "10.1037/xge0001048"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-measurement
 
@@ -24,7 +25,7 @@ links:
 - icon: file-pdf-fill
   name: PDF
   url: /publications/2021-jepg-visualarrays/2021-jepg-visualarrays.pdf
-- icon: file-code
+- icon: code-square
   name: Code
   url: https://osf.io/23nzu/
 - icon: database

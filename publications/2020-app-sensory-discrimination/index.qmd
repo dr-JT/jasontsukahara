@@ -15,6 +15,7 @@ doi: "10.3758/s13414-020-02044-9"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-cogability
   
@@ -22,7 +23,7 @@ links:
 - icon: file-pdf-fill
   name: PDF
   url: /publications/2020-app-sensory-discrimination/2020-app-sensory-discrimination.pdf
-- icon: file-code
+- icon: code-square
   name: Code
   url: https://osf.io/hsqru/
 - icon: database

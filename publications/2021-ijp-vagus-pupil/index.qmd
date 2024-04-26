@@ -16,6 +16,7 @@ doi: "10.1016/j.ijpsycho.2021.01.003"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-brain
 

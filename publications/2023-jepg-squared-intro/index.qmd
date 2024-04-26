@@ -14,6 +14,7 @@ doi: "10.1037/xge0001408"
 
 pub-type: "Article"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-measurement
   
@@ -21,7 +22,7 @@ links:
 - icon: file-pdf-fill
   name: PDF
   url: /publications/2023-jepg-squared-intro/2023-jepg-squared-intro.pdf
-- icon: file-code
+- icon: code-square
   name: Code
   url: https://osf.io/cdme2/
 - icon: database

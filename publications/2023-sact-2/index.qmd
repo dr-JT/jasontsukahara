@@ -12,6 +12,7 @@ doi: "10.31234/osf.io/wd5kz"
 
 pub-type: "Preprint"
 icon-type: file-richtext
+color: BC3C29FF
 project:
   - ac-cogability
 
@@ -19,7 +20,7 @@ links:
 - icon: file-pdf-fill
   name: PDF
   url: https://psyarxiv.com/wd5kz/
-- icon: file-code
+- icon: code-square
   name: Code
   url: https://osf.io/2vqas/
 - icon: database
