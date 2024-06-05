@@ -7,6 +7,15 @@ home-page: "yes"
 
 listing: 
 - id: current
+  contents: 
+    - path:
+      
+  type: table
+  fields: [title, subtitle, categories, description]
+  sort-ui: false
+  filter-ui: false
+      
+- id: past
   contents:
     - path: https://dr-jt.github.io/r-for-psychology-students/
       title: "R Workshop for the Psychology Student"
@@ -18,14 +27,6 @@ listing:
       subtitle: "Georgia Tech, Spring 2024"
       description: "This is a senior capstone course. Students conduct IRB approved group research studies, learn data science skills to process and analyze their data in a reproducible way, present a poster of their findings at a conference, and write full research paper"
       categories: [Undergraduate, Methods]
-      
-  type: table
-  fields: [title, subtitle, categories, description]
-  sort-ui: false
-  filter-ui: false
-      
-- id: past
-  contents:
     - path: ""
       title: "Research Methods"
       subtitle: "Georgia Tech, Fall 2023"
