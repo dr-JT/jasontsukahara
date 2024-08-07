@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "templates/trestles_template.html",
+    "href": "templates/trestles_template.html",
+    "title": "Frank Hermosillo",
+    "section": "",
+    "text": "Frank Hermosillo studies neural networks and their applications at Google Brain. His research focuses on differentiable network pruning approximation and decentralized gradient inversion mechanics. He frequently collaborates with researchers who study machine learning, computer vision, and cognitive science. His work has been featured in WIRED, The Atlantic, Newsweek, and The New York Times Magazine."
+  },
+  {
+    "objectID": "templates/trestles_template.html#bio",
+    "href": "templates/trestles_template.html#bio",
+    "title": "Frank Hermosillo",
+    "section": "",
+    "text": "Frank Hermosillo studies neural networks and their applications at Google Brain. His research focuses on differentiable network pruning approximation and decentralized gradient inversion mechanics. He frequently collaborates with researchers who study machine learning, computer vision, and cognitive science. His work has been featured in WIRED, The Atlantic, Newsweek, and The New York Times Magazine."
+  },
+  {
+    "objectID": "templates/trestles_template.html#education",
+    "href": "templates/trestles_template.html#education",
+    "title": "Frank Hermosillo",
+    "section": "Education",
+    "text": "Education\nMassachusetts Institute of Technology | Cambridge, MA\nPh.D. in Computer Science | September 2009 - May 2014\nThe University of California, Berkeley | Berkeley, CA\nB.S. in Computer Science | September 2005 - May 2009"
+  },
+  {
+    "objectID": "templates/trestles_template.html#experience",
+    "href": "templates/trestles_template.html#experience",
+    "title": "Frank Hermosillo",
+    "section": "Experience",
+    "text": "Experience\nGoogle Brain | Principal Investigator | January 2018 - Present\nNetflix | Research Scientist | June 2014 - December 2017"
+  },
+  {
     "objectID": "rpackages.html",
     "href": "rpackages.html",
     "title": "R Packages",
@@ -7,60 +35,95 @@
     "text": "englelab\n\n\nHelpful functions for processing and scoring complex-span and attention control tasks downloaded from the EngleLab.\n\n\n\n\n\n\n\n\n\n\n\n\n\nsemoutput\n\n\nAn R package to create nice looking output for CFA and SEM analyses using lavaan and semPlot packages.\n\n\n\n\n\n\n\n\n\n\n\n\n\npupillometry\n\n\nAn easy to use R package to preprocess pupil data for researchers that are not experts in either pupillometry or working with data in R.\n\n\n\n\n\n\n\n\n\n\nR Workshop for the Psychology Student\n\n\nThe purpose of this course is for you to gain a basic level of proficiency in 1) working with data, 2) data visualization, and 3) statistical computation in R.\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Jason S. Tsukahara",
+    "objectID": "research/ac-measurement/index.html",
+    "href": "research/ac-measurement/index.html",
+    "title": "The Measurement of Attention Control",
     "section": "",
-    "text": "Hi there,\n\nI am currently a post-doctoral researcher in the Attention & Working Memory Lab at Georgia Tech working with Randy Engle.\nAs a cognitive psychologist and practicing Buddhist contemplative, I am curious about the ways in which we use our attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways.\nCurrently my research focuses on individual differences in the ability to control attention and how that relates to cognitive abilities, sustained attention, pupil size, and the locus coeruleus-norepinephrine system.\n\n\n\n\nPh.D. in Cognition and Brain Sciences ∙ Georgia Tech ∙ 2022\n\n\nM.S. in Experimental Psychology ∙ CSU, San Bernardino ∙ 2014\n\n\nB.A. in Behavioral Neuroscience ∙ Western Washington University ∙ 2011"
+    "text": "Toolbox tasks: Download tasks here\n\nSustained attention-to-cue task\nAntisaccade\nSelective Visual Arrays\nStroop with an adaptive response deadline\n\nThree-minute Squared tasks: Download tasks here\n\nFlanker Squared\nStroop Squared\nSimon Squared"
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Jason S. Tsukahara",
+    "objectID": "research/ac-measurement/index.html#measures-of-attention-control",
+    "href": "research/ac-measurement/index.html#measures-of-attention-control",
+    "title": "The Measurement of Attention Control",
     "section": "",
-    "text": "Ph.D. in Cognition and Brain Sciences ∙ Georgia Tech ∙ 2022\n\n\nM.S. in Experimental Psychology ∙ CSU, San Bernardino ∙ 2014\n\n\nB.A. in Behavioral Neuroscience ∙ Western Washington University ∙ 2011"
+    "text": "Toolbox tasks: Download tasks here\n\nSustained attention-to-cue task\nAntisaccade\nSelective Visual Arrays\nStroop with an adaptive response deadline\n\nThree-minute Squared tasks: Download tasks here\n\nFlanker Squared\nStroop Squared\nSimon Squared"
   },
   {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "Jason S. Tsukahara",
-    "section": "About me",
-    "text": "About me\n\n\nI am originally from Bothell, WA (~30 miles north of Seattle). I will always consider Washington State as my home. I earned my B.A. in Behavioral Neuroscience at Western Washington University. This is where I found my interest in cognitive psychology. I took a year off after college to participate in an 8-week silent meditation retreat on Shamatha and the Four Immeasurables in Phuket, Thailand with my teacher Alan Wallace.\nFrom there I went on to do a 2 year M.A. program in General Experimental Psychology at California State University, San Bernardino (CSUSB). At CSUSB I worked with Dr. Hideya Koshino doing research on selective attention and working memory.\nI was, then, accepted into Randy Engle’s lab as a Ph.D. student at Georgia Tech. I graduated with my Ph.D. in December 2022. My research in the lab involves investigating the nature of attention control with the use of pupillometry. I make use of the R statistical programming language to analyze data in a way that is most consistent with open science and reproducibility practices. I have developed several R Packages relevant to the lab’s research.\nOutside of psychology, my interests include Buddhist spiritual practice (mainly influenced by the Nyingma tradition from Tibetan Buddhism and Dzogchen teachings in particular), teaching meditation and mindfulness practices, hiking, camping, riding my bicycle around town, and photography."
+    "objectID": "research/ac-measurement/index.html#latest-updates",
+    "href": "research/ac-measurement/index.html#latest-updates",
+    "title": "The Measurement of Attention Control",
+    "section": "Latest Updates",
+    "text": "Latest Updates\nI am currently brainstorming research ideas for the next data collection study."
   },
   {
-    "objectID": "publications/2021-cog-pupil-luminance/index.html",
-    "href": "publications/2021-cog-pupil-luminance/index.html",
-    "title": "Is baseline pupil size related to cognitive ability? Yes (under proper lighting conditions)",
-    "section": "",
-    "text": "There has been some controversy as to whether baseline pupil size is related to individual differences in cognitive ability. Previously, we had shown that a larger baseline pupil size was associated with higher cognitive ability and that the correlation to fluid intelligence was larger than that to working memory capacity (Tsukahara, Harrison, & Engle, 2016). However, other researchers have not been able to replicate our findings – though they only measured working memory capacity and not fluid intelligence. Many of the studies showing no relationship had major methodological issues, namely small baseline pupil size values – down to the physiological minimum that resulted in reduced variability on baseline pupil size. We conducted two large-scale studies to investigate how different lighting conditions affect baseline pupil size values and the correlation with cognitive abilities. We found that fluid intelligence, working memory capacity, and attention control did correlate with baseline pupil size except in the brightest lighting conditions. We showed that a reduced variability in baseline pupil size values is due to the monitor settings being too bright. Overall, our findings demonstrated that the baseline pupil size working memory capacity relationship was not as strong or robust as that with fluid intelligence or attention control. Our findings have strong methodological implications for researchers investigating individual differences in task-free or task-evoked pupil size. We conclude that fluid intelligence does correlate with baseline pupil size and that this is related to the functional organization of the resting-state brain through the locus coeruleus-norepinephrine system."
+    "objectID": "research/ac-measurement/index.html#description",
+    "href": "research/ac-measurement/index.html#description",
+    "title": "The Measurement of Attention Control",
+    "section": "Description",
+    "text": "Description\nMeasurement and theory are entwined; without adequate measurement, theoretical conclusions rest on tenuous ground. To understand the nature of attention control as a cognitive construct, we need tasks with strong psychometric properties that produce systematic differences in performance across individuals.\nUnfortunately, the study of individual differences in the ability to control attention has been hindered by measures that are notoriously unreliable. Therefore, we have been working on improving the measurement of attention control by modifying existing measures and developing novel tasks.\nOur position is that individual differences in the ability to control attention can be reliably measured and they underpin a wide range of cognitive functions, from problem solving and maintaining information in working memory to processing information rapidly and multitasking. That said, it is critical that we continue to refine our tools, including not only our tasks but also our experimental and statistical approaches."
   },
   {
-    "objectID": "publications/2021-cog-pupil-luminance/index.html#abstract",
-    "href": "publications/2021-cog-pupil-luminance/index.html#abstract",
-    "title": "Is baseline pupil size related to cognitive ability? Yes (under proper lighting conditions)",
-    "section": "",
-    "text": "There has been some controversy as to whether baseline pupil size is related to individual differences in cognitive ability. Previously, we had shown that a larger baseline pupil size was associated with higher cognitive ability and that the correlation to fluid intelligence was larger than that to working memory capacity (Tsukahara, Harrison, & Engle, 2016). However, other researchers have not been able to replicate our findings – though they only measured working memory capacity and not fluid intelligence. Many of the studies showing no relationship had major methodological issues, namely small baseline pupil size values – down to the physiological minimum that resulted in reduced variability on baseline pupil size. We conducted two large-scale studies to investigate how different lighting conditions affect baseline pupil size values and the correlation with cognitive abilities. We found that fluid intelligence, working memory capacity, and attention control did correlate with baseline pupil size except in the brightest lighting conditions. We showed that a reduced variability in baseline pupil size values is due to the monitor settings being too bright. Overall, our findings demonstrated that the baseline pupil size working memory capacity relationship was not as strong or robust as that with fluid intelligence or attention control. Our findings have strong methodological implications for researchers investigating individual differences in task-free or task-evoked pupil size. We conclude that fluid intelligence does correlate with baseline pupil size and that this is related to the functional organization of the resting-state brain through the locus coeruleus-norepinephrine system."
+    "objectID": "research/ac-measurement/index.html#publications",
+    "href": "research/ac-measurement/index.html#publications",
+    "title": "The Measurement of Attention Control",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\n\n\n\n  \n     \n    Replication and extension of the toolbox approach to measuring attention control\n  \n  \n  \n    \n    \n  \n  \n  Christopher D. Draheim, Jason S. Tsukahara, Randall W. Engle\n  Behavior Research Methods\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Nature and measurement of attention control\n  \n  \n  \n    \n    \n  \n  \n  Alexander P. Burgoyne, Jason S. Tsukahara, Cody A. Mashburn, Randall W. Engle\n  Journal of Experimental Psychology: General\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    The visual arrays task: Visual storage capacity or attention control?\n  \n  \n  \n    \n    \n  \n  \n  Jessie D. Martin, Jason S. Tsukahara, Christopher Draheim, Zach Shipstead, Cody A. Mashburn, Vogel K. Edward, Randall W. Engle\n  Journal of Experimental Psychology: General\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    A toolbox approach to improving the measurement of attention control\n  \n  \n  \n    \n    \n  \n  \n  Christopher Draheim, Jason S. Tsukahara, Jessie D. Martin, Cody A. Mashburn, Randall W. Engle\n  Journal of Experimental Psychology: General\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Differential and experimental approaches to studying intelligence in humans and non-human animals\n  \n  \n  \n    \n    \n  \n  \n  Alexander P. Burgoyne, Jason S. Tsukahara, Randall W. Engle\n  Learning and Motivation\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Individual differences in attention control: Implications for the relationship between working memory capacity and fluid intelligence\n  \n  \n  \n    \n    \n  \n  \n  Cody A. Mashburn, Jason S. Tsukahara, Randall W. Engle\n  Working memory: The state of the science\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/2023-jepg-squared-intro/index.html",
-    "href": "publications/2023-jepg-squared-intro/index.html",
-    "title": "Nature and measurement of attention control",
+    "objectID": "research/ac-brain/index.html",
+    "href": "research/ac-brain/index.html",
+    "title": "Brain Mechanisms of Attention Control",
     "section": "",
-    "text": "Individual differences in the ability to control attention are correlated with a wide range of important outcomes, from academic achievement and job performance to health behaviors and emotion regulation. Nevertheless, the theoretical nature of attention control as a cognitive construct has been the subject of heated debate, spurred on by psychometric issues that have stymied efforts to reliably measure differences in the ability to control attention. For theory to advance, our measures must improve. We introduce three efficient, reliable, and valid tests of attention control that each take less than 3 min to administer; Stroop Squared, Flanker Squared, and Simon Squared. Two studies (online and in-lab) comprising more than 600 participants demonstrate that the three “Squared” tasks have great internal consistency (avg. = .95) and test–retest reliability across sessions (avg. r = .67). Latent variable analyses revealed that the Squared tasks loaded highly on a common factor (avg. loading = .70), which was strongly correlated with an attention control factor based on established measures (avg. r = .81). Moreover, attention control correlated strongly with fluid intelligence, working memory capacity, and processing speed and helped explain their covariation. We found that the Squared attention control tasks accounted for 75 percent of the variance in multitasking ability at the latent level, and that fluid intelligence, attention control, and processing speed fully accounted for individual differences in multitasking ability. Our results suggest that Stroop Squared, Flanker Squared, and Simon Squared are reliable and valid measures of attention control."
+    "text": "In the process of data collection and preliminary data analysis. Preliminary findings are promising, showing differences in functional connectivity and pupil size for high and low attention control individuals."
   },
   {
-    "objectID": "publications/2023-jepg-squared-intro/index.html#abstract",
-    "href": "publications/2023-jepg-squared-intro/index.html#abstract",
-    "title": "Nature and measurement of attention control",
+    "objectID": "research/ac-brain/index.html#latest-updates",
+    "href": "research/ac-brain/index.html#latest-updates",
+    "title": "Brain Mechanisms of Attention Control",
     "section": "",
-    "text": "Individual differences in the ability to control attention are correlated with a wide range of important outcomes, from academic achievement and job performance to health behaviors and emotion regulation. Nevertheless, the theoretical nature of attention control as a cognitive construct has been the subject of heated debate, spurred on by psychometric issues that have stymied efforts to reliably measure differences in the ability to control attention. For theory to advance, our measures must improve. We introduce three efficient, reliable, and valid tests of attention control that each take less than 3 min to administer; Stroop Squared, Flanker Squared, and Simon Squared. Two studies (online and in-lab) comprising more than 600 participants demonstrate that the three “Squared” tasks have great internal consistency (avg. = .95) and test–retest reliability across sessions (avg. r = .67). Latent variable analyses revealed that the Squared tasks loaded highly on a common factor (avg. loading = .70), which was strongly correlated with an attention control factor based on established measures (avg. r = .81). Moreover, attention control correlated strongly with fluid intelligence, working memory capacity, and processing speed and helped explain their covariation. We found that the Squared attention control tasks accounted for 75 percent of the variance in multitasking ability at the latent level, and that fluid intelligence, attention control, and processing speed fully accounted for individual differences in multitasking ability. Our results suggest that Stroop Squared, Flanker Squared, and Simon Squared are reliable and valid measures of attention control."
+    "text": "In the process of data collection and preliminary data analysis. Preliminary findings are promising, showing differences in functional connectivity and pupil size for high and low attention control individuals."
   },
   {
-    "objectID": "publications/2021-sa-pupil/index.html",
-    "href": "publications/2021-sa-pupil/index.html",
-    "title": "Pupil Size Is a Marker of Intelligence",
+    "objectID": "research/ac-brain/index.html#description",
+    "href": "research/ac-brain/index.html#description",
+    "title": "Brain Mechanisms of Attention Control",
+    "section": "Description",
+    "text": "Description\nComing soon…"
+  },
+  {
+    "objectID": "research/ac-brain/index.html#publications",
+    "href": "research/ac-brain/index.html#publications",
+    "title": "Brain Mechanisms of Attention Control",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\n\n\n\n  \n     \n    Fluid intelligence and the locus coeruleus-norepinephrine system\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Randall W. Engle\n  Proceedings of the National Academy of Sciences\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Baseline pupil size is related to fluid intelligence: A reply to Unsworth et al. (2021)\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Christopher Draheim, Randall W. Engle\n  Cognition\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Pupil Size Is a Marker of Intelligence\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Alexandar P. Burgoyne, Randall W. Engle\n  Scientific American Mind\n  \n  \n    \n      \n         Link\n      \n    \n  \n\n\n\n  \n     \n    Is baseline pupil size related to cognitive ability? Yes (under proper lighting conditions)\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Randall W. Engle\n  Cognition\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Transcutaneous vagus nerve stimulation via tragus or cymba conchae: Are its psychophysiological effects dependent on the stimulation area?\n  \n  \n  \n    \n    \n  \n  \n  Uirassu Borges, Marie Pfannenstiel, Jason S. Tsukahara, Sylvain Laborde, Stefanie Klatt, Markus Raab\n  International Journal of Psychophysiology\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    The relationship between baseline pupil size and intelligence\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Tyler L. Harrison, Randall W. Engle\n  Cognitive Psychology\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/2023-sact-2/index.html",
+    "href": "publications/2023-sact-2/index.html",
+    "title": "Sustaining the focus of attention and how it relates to performance in complex cognitive tasks",
     "section": "",
-    "text": "Back to top"
+    "text": "The ability to sustain attention over time and the maintenance of information in working memory are highly overlapping constructs. Many tasks used to measure sustained attention rely heavily on the maintenance of information in working memory to sustain continuous task performance over large periods of time. To further understand the relationship between sustained attention and working memory, we tested whether the ability to sustain the focus of attention over a relatively short period of time (e.g., 12 seconds) is related to cognitive abilities such as working memory capacity and attention control. We used a novel paradigm, the sustained attention-to-cue task, to manipulate the duration attention had tobe sustained at a cued location; none (0 seconds), short (2–5 seconds), medium (5.5–8.5 seconds), and long (9–12 seconds). We found that attention waned and accuracy decreased as the wait time got longer. Those higher on attention control ability, had less of a decline in accuracy as the wait time got longer. However, the decline in accuracy as wait time got longer was not related to working memory capacity, fluid intelligence, or multitasking. These findings challenge how we think about sustained attention and working memory capacity, and the nature of attention control more generally."
+  },
+  {
+    "objectID": "publications/2023-sact-2/index.html#abstract",
+    "href": "publications/2023-sact-2/index.html#abstract",
+    "title": "Sustaining the focus of attention and how it relates to performance in complex cognitive tasks",
+    "section": "",
+    "text": "The ability to sustain attention over time and the maintenance of information in working memory are highly overlapping constructs. Many tasks used to measure sustained attention rely heavily on the maintenance of information in working memory to sustain continuous task performance over large periods of time. To further understand the relationship between sustained attention and working memory, we tested whether the ability to sustain the focus of attention over a relatively short period of time (e.g., 12 seconds) is related to cognitive abilities such as working memory capacity and attention control. We used a novel paradigm, the sustained attention-to-cue task, to manipulate the duration attention had tobe sustained at a cued location; none (0 seconds), short (2–5 seconds), medium (5.5–8.5 seconds), and long (9–12 seconds). We found that attention waned and accuracy decreased as the wait time got longer. Those higher on attention control ability, had less of a decline in accuracy as the wait time got longer. However, the decline in accuracy as wait time got longer was not related to working memory capacity, fluid intelligence, or multitasking. These findings challenge how we think about sustained attention and working memory capacity, and the nature of attention control more generally."
+  },
+  {
+    "objectID": "publications/2023-brm-toolbox-2/index.html",
+    "href": "publications/2023-brm-toolbox-2/index.html",
+    "title": "Replication and extension of the toolbox approach to measuring attention control",
+    "section": "",
+    "text": "There is an increasing consensus among researchers that traditional attention tasks do not validly index the attentional mechanisms that they are often used to assess. We recently tested and validated several existing, modified, and new tasks and found that accuracy-based and adaptive tasks were more reliable and valid measures of attention control than traditional ones, which typically rely on speeded responding and/or contrast comparisons in the form of difference scores (Draheim et al., 2021). With these improved measures, we found that attention control fully mediated the working memory capacity-fluid intelligence relationship, a novel finding that we argued has significant theoretical implications. The present study was both a follow-up and extension to this “toolbox approach” to measuring attention control. Here, we tested updated versions of several attention control tasks in a new dataset (N = 301) and found, with one exception, that these tasks remain strong indicators of attention control. The present study also replicated two important findings; 1) that attention control accounted for nearly all the variance in the relationship between working memory capacity and fluid intelligence, and 2) that the strong association found between attention control and other cognitive measures is not because the attention control tasks place strong demands on processing speed. These findings show that attention control can be measured as a reliable and valid individual differences construct and thatattention control shares substantial variance with other executive functions."
+  },
+  {
+    "objectID": "publications/2023-brm-toolbox-2/index.html#abstract",
+    "href": "publications/2023-brm-toolbox-2/index.html#abstract",
+    "title": "Replication and extension of the toolbox approach to measuring attention control",
+    "section": "",
+    "text": "There is an increasing consensus among researchers that traditional attention tasks do not validly index the attentional mechanisms that they are often used to assess. We recently tested and validated several existing, modified, and new tasks and found that accuracy-based and adaptive tasks were more reliable and valid measures of attention control than traditional ones, which typically rely on speeded responding and/or contrast comparisons in the form of difference scores (Draheim et al., 2021). With these improved measures, we found that attention control fully mediated the working memory capacity-fluid intelligence relationship, a novel finding that we argued has significant theoretical implications. The present study was both a follow-up and extension to this “toolbox approach” to measuring attention control. Here, we tested updated versions of several attention control tasks in a new dataset (N = 301) and found, with one exception, that these tasks remain strong indicators of attention control. The present study also replicated two important findings; 1) that attention control accounted for nearly all the variance in the relationship between working memory capacity and fluid intelligence, and 2) that the strong association found between attention control and other cognitive measures is not because the attention control tasks place strong demands on processing speed. These findings show that attention control can be measured as a reliable and valid individual differences construct and thatattention control shares substantial variance with other executive functions."
   },
   {
     "objectID": "publications/2022-int-pot/index.html",
@@ -77,6 +140,174 @@
     "text": "Process overlap theory provides a contemporary explanation for the positive correlations observed among cognitive ability measures, a phenomenon which intelligence researchers refer to as the positive manifold. According to process overlap theory, cognitive tasks tap domain-general executive processes as well as domain-specific processes, and correlations between measures reflect the degree of overlap in the cognitive processes that are engaged when performing the tasks. In this article, we discuss points of agreement and disagreement between the executive attention framework and process overlap theory, with a focus on attention control, the domain-general ability to maintain focus on task-relevant information and disengage from irrelevant and no-longer relevant information. After describing the steps our lab has taken to improve the measurement of attention control, we review evidence suggesting that attention control can explain many of the positive correlations between broad cognitive abilities, such as fluid intelligence, working memory capacity, and sensory discrimination ability. Furthermore, when these latent variables are modeled under a higher-order g factor, attention control has the highest loading on g, indicating a strong relationship between attention control and domain-general cognitive ability. In closing, we reflect on the challenge of directly measuring cognitive processes and provide suggestions for future research."
   },
   {
+    "objectID": "publications/2021-tr-rationality/index.html",
+    "href": "publications/2021-tr-rationality/index.html",
+    "title": "Understanding the relationship between rationality and intelligence: A latent-variable approach",
+    "section": "",
+    "text": "A hallmark of intelligent behavior is rationality – the disposition and ability to think analytically to make decisions that maximize expected utility or follow the laws of probability. However, the question remains as to whether rationality and intelligence are empirically distinct, as does the question of what cognitive mechanisms underlie individual differences in rationality. In a sample of 331 participants, we assessed the relationship between rationality and intelligence. There was a common ability underpinning performance on some, but not all, rationality tests. Latent factors representing rationality and general intelligence were strongly correlated (r = .54), but their correlation fell well short of unity. Rationality correlated significantly with fluid intelligence (r = .56), working memory capacity (r = .44), and attention control (r = .49). Attention control fully accounted for the relationship between working memory capacity and rationality, and partially accounted for the relationship between fluid intelligence and rationality. We conclude by speculating about factors rationality tests may tap that other cognitive ability tests miss, and outline directions for further research."
+  },
+  {
+    "objectID": "publications/2021-tr-rationality/index.html#abstract",
+    "href": "publications/2021-tr-rationality/index.html#abstract",
+    "title": "Understanding the relationship between rationality and intelligence: A latent-variable approach",
+    "section": "",
+    "text": "A hallmark of intelligent behavior is rationality – the disposition and ability to think analytically to make decisions that maximize expected utility or follow the laws of probability. However, the question remains as to whether rationality and intelligence are empirically distinct, as does the question of what cognitive mechanisms underlie individual differences in rationality. In a sample of 331 participants, we assessed the relationship between rationality and intelligence. There was a common ability underpinning performance on some, but not all, rationality tests. Latent factors representing rationality and general intelligence were strongly correlated (r = .54), but their correlation fell well short of unity. Rationality correlated significantly with fluid intelligence (r = .56), working memory capacity (r = .44), and attention control (r = .49). Attention control fully accounted for the relationship between working memory capacity and rationality, and partially accounted for the relationship between fluid intelligence and rationality. We conclude by speculating about factors rationality tests may tap that other cognitive ability tests miss, and outline directions for further research."
+  },
+  {
+    "objectID": "publications/2021-pnas-intelligence-lc/index.html",
+    "href": "publications/2021-pnas-intelligence-lc/index.html",
+    "title": "Fluid intelligence and the locus coeruleus-norepinephrine system",
+    "section": "",
+    "text": "The last decade has seen significant progress identifying genetic and brain differences related to intelligence. However, there remain considerable gaps in our understanding of how cognitive mechanisms that underpin intelligence map onto various brain functions. In this article, we argue that the locus coeruleus-norepinephrine system is essential for understanding the biological basis of intelligence. We review evidence suggesting that the locus coeruleus–norepinephrine system plays a central role at all levels of brain function, from metabolic processes to the organization of large-scale brain networks. We connect this evidence with our executive attention view of working-memory capacity and fluid intelligence and present analyses on baseline pupil size, an indicator of locus coeruleus activity. Using a latent variable approach, our analyses showed that a common executive attention factor predicted baseline pupil size. Additionally, the executive attention function of disengagement––not maintenance––uniquely predicted baseline pupil size. These findings suggest that the ability to control attention may be important for understanding how cognitive mechanisms of fluid intelligence map onto the locus coeruleus–norepinephrine system. We discuss how further research is needed to better understand the relationships between fluid intelligence, the locus coeruleus–norepinephrine system, and functionally organized brain networks."
+  },
+  {
+    "objectID": "publications/2021-pnas-intelligence-lc/index.html#abstract",
+    "href": "publications/2021-pnas-intelligence-lc/index.html#abstract",
+    "title": "Fluid intelligence and the locus coeruleus-norepinephrine system",
+    "section": "",
+    "text": "The last decade has seen significant progress identifying genetic and brain differences related to intelligence. However, there remain considerable gaps in our understanding of how cognitive mechanisms that underpin intelligence map onto various brain functions. In this article, we argue that the locus coeruleus-norepinephrine system is essential for understanding the biological basis of intelligence. We review evidence suggesting that the locus coeruleus–norepinephrine system plays a central role at all levels of brain function, from metabolic processes to the organization of large-scale brain networks. We connect this evidence with our executive attention view of working-memory capacity and fluid intelligence and present analyses on baseline pupil size, an indicator of locus coeruleus activity. Using a latent variable approach, our analyses showed that a common executive attention factor predicted baseline pupil size. Additionally, the executive attention function of disengagement––not maintenance––uniquely predicted baseline pupil size. These findings suggest that the ability to control attention may be important for understanding how cognitive mechanisms of fluid intelligence map onto the locus coeruleus–norepinephrine system. We discuss how further research is needed to better understand the relationships between fluid intelligence, the locus coeruleus–norepinephrine system, and functionally organized brain networks."
+  },
+  {
+    "objectID": "publications/2021-jepg-toolbox-1/index.html",
+    "href": "publications/2021-jepg-toolbox-1/index.html",
+    "title": "A toolbox approach to improving the measurement of attention control",
+    "section": "",
+    "text": "Cognitive tasks that produce reliable and robust effects at the group level often fail to yield reliable and valid individual differences. An ongoing debate among attention researchers is whether conflict resolution mechanisms are task-specific or domain-general, and the lack of correlation between most attention measures seems to favor the view that attention control is not a unitary concept. We have argued that the use of difference scores, particularly in reaction time (RT), is the primary cause of null and conflicting results at the individual differences level, and that methodological issues with existing tasks preclude making strong theoretical conclusions. The present article is an empirical test of this view in which we used a toolbox approach to develop and validate new tasks hypothesized to reflect attention processes. Here, we administered existing, modified, and new attention tasks to over 400 participants (final N = 396). Compared with the traditional Stroop and flanker tasks, performance on the accuracy-based measures was more reliable, had stronger intercorrelations, formed a more coherent latent factor, and had stronger associations to measures of working memory capacity and fluid intelligence. Further, attention control fully accounted for the relationship between working memory capacity and fluid intelligence. These results show that accuracy-based measures can be better suited to individual differences investigations than traditional RT tasks, particularly when the goal is to maximize prediction. We conclude that attention control is a unitary concept."
+  },
+  {
+    "objectID": "publications/2021-jepg-toolbox-1/index.html#abstract",
+    "href": "publications/2021-jepg-toolbox-1/index.html#abstract",
+    "title": "A toolbox approach to improving the measurement of attention control",
+    "section": "",
+    "text": "Cognitive tasks that produce reliable and robust effects at the group level often fail to yield reliable and valid individual differences. An ongoing debate among attention researchers is whether conflict resolution mechanisms are task-specific or domain-general, and the lack of correlation between most attention measures seems to favor the view that attention control is not a unitary concept. We have argued that the use of difference scores, particularly in reaction time (RT), is the primary cause of null and conflicting results at the individual differences level, and that methodological issues with existing tasks preclude making strong theoretical conclusions. The present article is an empirical test of this view in which we used a toolbox approach to develop and validate new tasks hypothesized to reflect attention processes. Here, we administered existing, modified, and new attention tasks to over 400 participants (final N = 396). Compared with the traditional Stroop and flanker tasks, performance on the accuracy-based measures was more reliable, had stronger intercorrelations, formed a more coherent latent factor, and had stronger associations to measures of working memory capacity and fluid intelligence. Further, attention control fully accounted for the relationship between working memory capacity and fluid intelligence. These results show that accuracy-based measures can be better suited to individual differences investigations than traditional RT tasks, particularly when the goal is to maximize prediction. We conclude that attention control is a unitary concept."
+  },
+  {
+    "objectID": "publications/2021-cog-pupil-luminance-reply/index.html",
+    "href": "publications/2021-cog-pupil-luminance-reply/index.html",
+    "title": "Baseline pupil size is related to fluid intelligence: A reply to Unsworth et al. (2021)",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "publications/2020-wms-book-chapter/index.html",
+    "href": "publications/2020-wms-book-chapter/index.html",
+    "title": "Individual differences in attention control: Implications for the relationship between working memory capacity and fluid intelligence",
+    "section": "",
+    "text": "In this chapter, we detail our approach to the study of individual differences in working memory capacity (WMC) and how it has contributed to understanding the mechanisms of complex cognition. Theories of working memory have primarily focused on specifying how information is represented and manipulated in a limited-capacity cognitive system. Individuals differ in the efficacy of their working memory systems, forming the basis for WMC as a psychometric construct. Decades of research have shown that WMC is predictive of a broad range of abilities and outcomes (Engle, 2002; Engle & Kane, 2004; Feldman-Barrett, Tugade, & Engle, 2004). One of the most robust and, we believe, important findings is that WMC strongly predicts fluid intelligence (Gf), the ability to solve novel problems and learn new information (Kane, Hambrick, & Conway, 2005; Kyllonen & Christal, 1990). A central feature of many models of the working memory system is a domain-general executive attention, sometimes called a central executive, which regulates other components of the system (Baddeley & Hitch, 1974; Cowan, 1999). We argue that this attentional component forms the basis of the WMC–Gf relationship."
+  },
+  {
+    "objectID": "publications/2020-wms-book-chapter/index.html#abstract",
+    "href": "publications/2020-wms-book-chapter/index.html#abstract",
+    "title": "Individual differences in attention control: Implications for the relationship between working memory capacity and fluid intelligence",
+    "section": "",
+    "text": "In this chapter, we detail our approach to the study of individual differences in working memory capacity (WMC) and how it has contributed to understanding the mechanisms of complex cognition. Theories of working memory have primarily focused on specifying how information is represented and manipulated in a limited-capacity cognitive system. Individuals differ in the efficacy of their working memory systems, forming the basis for WMC as a psychometric construct. Decades of research have shown that WMC is predictive of a broad range of abilities and outcomes (Engle, 2002; Engle & Kane, 2004; Feldman-Barrett, Tugade, & Engle, 2004). One of the most robust and, we believe, important findings is that WMC strongly predicts fluid intelligence (Gf), the ability to solve novel problems and learn new information (Kane, Hambrick, & Conway, 2005; Kyllonen & Christal, 1990). A central feature of many models of the working memory system is a domain-general executive attention, sometimes called a central executive, which regulates other components of the system (Baddeley & Hitch, 1974; Cowan, 1999). We argue that this attentional component forms the basis of the WMC–Gf relationship."
+  },
+  {
+    "objectID": "publications/2020-app-sensory-discrimination/index.html",
+    "href": "publications/2020-app-sensory-discrimination/index.html",
+    "title": "Attention control: The missing link between sensory discrimination and intelligence",
+    "section": "",
+    "text": "Intelligence is correlated with the ability to make fine sensory discriminations. Although this relationship has been known since the beginning of intelligence testing, the mechanisms underlying this relationship are still unknown. In two large-scale structural equation modelling studies, we investigated whether individual differences in attention control abilities can explain the relationship between sensory discrimination and intelligence. Across these two studies, we replicated the finding that attention control fully mediated the relationships of intelligence/working-memory capacity to sensory discrimination. Our findings show that attention control plays a prominent role in relating sensory discrimination to higher-order cognitive abilities."
+  },
+  {
+    "objectID": "publications/2020-app-sensory-discrimination/index.html#abstract",
+    "href": "publications/2020-app-sensory-discrimination/index.html#abstract",
+    "title": "Attention control: The missing link between sensory discrimination and intelligence",
+    "section": "",
+    "text": "Intelligence is correlated with the ability to make fine sensory discriminations. Although this relationship has been known since the beginning of intelligence testing, the mechanisms underlying this relationship are still unknown. In two large-scale structural equation modelling studies, we investigated whether individual differences in attention control abilities can explain the relationship between sensory discrimination and intelligence. Across these two studies, we replicated the finding that attention control fully mediated the relationships of intelligence/working-memory capacity to sensory discrimination. Our findings show that attention control plays a prominent role in relating sensory discrimination to higher-order cognitive abilities."
+  },
+  {
+    "objectID": "index.html#research-projects",
+    "href": "index.html#research-projects",
+    "title": "Jason Tsukahara, PhD",
+    "section": "Research Projects",
+    "text": "Research Projects\n \n\n\n\n\n\n\n\n\n\n\nBrain Mechanisms of Attention Control\n\n\nI am currently conducting a large-sample (N = 200+) fMRI study to investigate the brain mechanisms underlying differences in the ability to control attention.\n\n\n\n\n\n\n\n\n\n\n\n\n\nAttention Control and Cognition\n\n\nI explore this aspect of attention control by studying how people differ on their ability to control attention and how that predicts other cognitive and perceptual abilities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Measurement of Attention Control\n\n\nThis area of my research focuses on developing novel tasks that are both reliable and valid measures of attention control.\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#featured-publications",
+    "href": "index.html#featured-publications",
+    "title": "Jason Tsukahara, PhD",
+    "section": "Featured Publications",
+    "text": "Featured Publications\n \n\n\n\n\n\n\n\n  \n     \n    Knowledge, attention, and psychomotor ability: A latent variable approach to understanding individual differences in simulated work performance\n  \n  \n  \n    \n    \n  \n  \n  Cody A. Mashburn, Alexander P. Burgoyne, Jason S. Tsukahara, Richard Pak, Joseph T. Coyne, Ciara Sibley, Cyrus Foroughi, Randall W. Engle\n  PsyArxiv\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Replication and extension of the toolbox approach to measuring attention control\n  \n  \n  \n    \n    \n  \n  \n  Christopher D. Draheim, Jason S. Tsukahara, Randall W. Engle\n  Behavior Research Methods\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Sustaining the focus of attention and how it relates to performance in complex cognitive tasks\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Randall W. Engle\n  PsyArxiv\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n\nNo matching items\n\n\nSee all publications →"
+  },
+  {
+    "objectID": "index.html#r-packages",
+    "href": "index.html#r-packages",
+    "title": "Jason Tsukahara, PhD",
+    "section": "R Packages",
+    "text": "R Packages\n \n\n\n\n\n\n\n\n\n\n\nenglelab\n\n\nHelpful functions for processing and scoring complex-span and attention control tasks downloaded from the EngleLab.\n\n\n\n\n\n\n\n\n\n\n\n\n\nsemoutput\n\n\nAn R package to create nice looking output for CFA and SEM analyses using lavaan and semPlot packages.\n\n\n\n\n\n\n\n\n\n\n\n\n\npupillometry\n\n\nAn easy to use R package to preprocess pupil data for researchers that are not experts in either pupillometry or working with data in R.\n\n\n\n\n\n\n\n\n\n\nR Workshop for the Psychology Student\n\n\nThe purpose of this course is for you to gain a basic level of proficiency in 1) working with data, 2) data visualization, and 3) statistical computation in R.\n\n\n\n\n\n\n\nNo matching items\n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTake a moment to enjoy the silence"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Jason S. Tsukahara",
+    "section": "",
+    "text": "Hi there,\n\nI am currently a post-doctoral researcher in the Jha Lab at the University of Miami working with Amishi Jha\nAs a cognitive psychologist and practicing Buddhist contemplative, I am curious about the ways in which we use our attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways.\nCurrently my research focuses on how mindfulness-based training programs can benefit cognition, emotion, resilience, well-being, and performance. My work has also focused on individual differences in the ability to control attention and how that relates to cognitive abilities, sustained attention, pupil size, and the locus coeruleus-norepinephrine system.\n\n\n\n\nPh.D. in Cognition and Brain Sciences ∙ Georgia Tech ∙ 2022\n\n\nM.S. in Experimental Psychology ∙ CSU, San Bernardino ∙ 2014\n\n\nB.A. in Behavioral Neuroscience ∙ Western Washington University ∙ 2011"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Jason S. Tsukahara",
+    "section": "",
+    "text": "Ph.D. in Cognition and Brain Sciences ∙ Georgia Tech ∙ 2022\n\n\nM.S. in Experimental Psychology ∙ CSU, San Bernardino ∙ 2014\n\n\nB.A. in Behavioral Neuroscience ∙ Western Washington University ∙ 2011"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Jason S. Tsukahara",
+    "section": "About me",
+    "text": "About me\n\n\nI am originally from Bothell, WA (~30 miles north of Seattle). I will always consider Washington State as my home. I earned my B.A. in Behavioral Neuroscience at Western Washington University. This is where I found my interest in cognitive psychology. I took a year off after college to participate in an 8-week silent meditation retreat on Shamatha and the Four Immeasurables in Phuket, Thailand with my teacher Alan Wallace.\nFrom there I went on to do a 2 year M.A. program in General Experimental Psychology at California State University, San Bernardino (CSUSB). At CSUSB I worked with Dr. Hideya Koshino doing research on selective attention and working memory.\nI was, then, accepted into Randy Engle’s lab as a Ph.D. student at Georgia Tech. I graduated with my Ph.D. in December 2022 and worked as a post-doc with Randy for a year and a half. My research in the lab involved investigating the nature of attention control with the use of pupillometry. I made use of the R statistical programming language to analyze data in a way that is most consistent with open science and reproducibility practices. I had developed several R Packages relevant to the lab’s research.\nI then went on to do a post-doc with Amishi Jha at the University of Miami in 2024 to extend the work I had done at Georgia Tech in an area that is very near to my heart, mindfulness and meditation. This has been a great opportunity for me to get involved in an area of research I am both academically and personally passionate about.\nOutside of psychology, my interests include Buddhist spiritual practice (mainly influenced by the Nyingma tradition from Tibetan Buddhism and Dzogchen teachings in particular), teaching meditation and mindfulness practices, hiking, camping, riding my bicycle around town, and photography."
+  },
+  {
+    "objectID": "publications/2016-cp-baseline-pupil-og/index.html",
+    "href": "publications/2016-cp-baseline-pupil-og/index.html",
+    "title": "The relationship between baseline pupil size and intelligence",
+    "section": "",
+    "text": "Pupil dilations of the eye are known to correspond to central cognitive processes. However, the relationship between pupil size and individual differences in cognitive ability is not as well studied. A peculiar finding that has cropped up in this research is that those high on cognitive ability have a larger pupil size, even during a passive baseline condition. Yet these findings were incidental and lacked a clear explanation. Therefore, in the present series of studies we systematically investigated whether pupil size during a passive baseline is associated with individual differences in working memory capacity and fluid intelligence. Across three studies we consistently found that baseline pupil size is, in fact, related to cognitive ability. We showed that this relationship could not be explained by differences in mental effort, and that the effect of working memory capacity and fluid intelligence on pupil size persisted even after 23 sessions and taking into account the effect of novelty or familiarity with the environment. We also accounted for potential confounding variables such as; age, ethnicity, and drug substances. Lastly, we found that it is fluid intelligence, more so than working memory capacity, which is related to baseline pupil size. In order to provide an explanation and suggestions for future research, we also consider our findings in the context of the underlying neural mechanisms involved."
+  },
+  {
+    "objectID": "publications/2016-cp-baseline-pupil-og/index.html#abstract",
+    "href": "publications/2016-cp-baseline-pupil-og/index.html#abstract",
+    "title": "The relationship between baseline pupil size and intelligence",
+    "section": "",
+    "text": "Pupil dilations of the eye are known to correspond to central cognitive processes. However, the relationship between pupil size and individual differences in cognitive ability is not as well studied. A peculiar finding that has cropped up in this research is that those high on cognitive ability have a larger pupil size, even during a passive baseline condition. Yet these findings were incidental and lacked a clear explanation. Therefore, in the present series of studies we systematically investigated whether pupil size during a passive baseline is associated with individual differences in working memory capacity and fluid intelligence. Across three studies we consistently found that baseline pupil size is, in fact, related to cognitive ability. We showed that this relationship could not be explained by differences in mental effort, and that the effect of working memory capacity and fluid intelligence on pupil size persisted even after 23 sessions and taking into account the effect of novelty or familiarity with the environment. We also accounted for potential confounding variables such as; age, ethnicity, and drug substances. Lastly, we found that it is fluid intelligence, more so than working memory capacity, which is related to baseline pupil size. In order to provide an explanation and suggestions for future research, we also consider our findings in the context of the underlying neural mechanisms involved."
+  },
+  {
+    "objectID": "publications/2020-lm-diff-exp/index.html",
+    "href": "publications/2020-lm-diff-exp/index.html",
+    "title": "Differential and experimental approaches to studying intelligence in humans and non-human animals",
+    "section": "",
+    "text": "Why do some individuals learn more quickly than others, or perform better in complex cognitive tasks? In this article, we describe how differential and experimental research methods can be used to study intelligence in humans and non-human animals. More than one hundred years ago, Spearman (1904) discovered a general factor underpinning performance across cognitive domains in humans. Shortly thereafter, Thorndike (1935) discovered positive correlations between cognitive performance measures in the albino rat. Today, research continues to shed light on the underpinnings of the positive manifold observed among ability measures. In this review, we focus on the relationship between cognitive performance and attention control; the domain-general ability to maintain focus on task-relevant information while preventing attentional capture by task-irrelevant thoughts and events. Recent work from our laboratory has revealed that individual differences in attention control can largely explain the positive associations between broad cognitive abilities such as working memory capacity and fluid intelligence. In research on mice, attention control has been closely linked to a general ability factor reflecting route learning and problem solving. Taken together, both lines of research suggest that individual differences in attention control underpin performance in a variety of complex cognitive tasks, helping to explain why measures of cognitive ability correlate positively. Efforts to find confirmatory and dis-confirmatory evidence across species stands to improve not only our understanding of attention control, but cognition in general."
+  },
+  {
+    "objectID": "publications/2020-lm-diff-exp/index.html#abstract",
+    "href": "publications/2020-lm-diff-exp/index.html#abstract",
+    "title": "Differential and experimental approaches to studying intelligence in humans and non-human animals",
+    "section": "",
+    "text": "Why do some individuals learn more quickly than others, or perform better in complex cognitive tasks? In this article, we describe how differential and experimental research methods can be used to study intelligence in humans and non-human animals. More than one hundred years ago, Spearman (1904) discovered a general factor underpinning performance across cognitive domains in humans. Shortly thereafter, Thorndike (1935) discovered positive correlations between cognitive performance measures in the albino rat. Today, research continues to shed light on the underpinnings of the positive manifold observed among ability measures. In this review, we focus on the relationship between cognitive performance and attention control; the domain-general ability to maintain focus on task-relevant information while preventing attentional capture by task-irrelevant thoughts and events. Recent work from our laboratory has revealed that individual differences in attention control can largely explain the positive associations between broad cognitive abilities such as working memory capacity and fluid intelligence. In research on mice, attention control has been closely linked to a general ability factor reflecting route learning and problem solving. Taken together, both lines of research suggest that individual differences in attention control underpin performance in a variety of complex cognitive tasks, helping to explain why measures of cognitive ability correlate positively. Efforts to find confirmatory and dis-confirmatory evidence across species stands to improve not only our understanding of attention control, but cognition in general."
+  },
+  {
+    "objectID": "publications/2021-cog-pupil-luminance/index.html",
+    "href": "publications/2021-cog-pupil-luminance/index.html",
+    "title": "Is baseline pupil size related to cognitive ability? Yes (under proper lighting conditions)",
+    "section": "",
+    "text": "There has been some controversy as to whether baseline pupil size is related to individual differences in cognitive ability. Previously, we had shown that a larger baseline pupil size was associated with higher cognitive ability and that the correlation to fluid intelligence was larger than that to working memory capacity (Tsukahara, Harrison, & Engle, 2016). However, other researchers have not been able to replicate our findings – though they only measured working memory capacity and not fluid intelligence. Many of the studies showing no relationship had major methodological issues, namely small baseline pupil size values – down to the physiological minimum that resulted in reduced variability on baseline pupil size. We conducted two large-scale studies to investigate how different lighting conditions affect baseline pupil size values and the correlation with cognitive abilities. We found that fluid intelligence, working memory capacity, and attention control did correlate with baseline pupil size except in the brightest lighting conditions. We showed that a reduced variability in baseline pupil size values is due to the monitor settings being too bright. Overall, our findings demonstrated that the baseline pupil size working memory capacity relationship was not as strong or robust as that with fluid intelligence or attention control. Our findings have strong methodological implications for researchers investigating individual differences in task-free or task-evoked pupil size. We conclude that fluid intelligence does correlate with baseline pupil size and that this is related to the functional organization of the resting-state brain through the locus coeruleus-norepinephrine system."
+  },
+  {
+    "objectID": "publications/2021-cog-pupil-luminance/index.html#abstract",
+    "href": "publications/2021-cog-pupil-luminance/index.html#abstract",
+    "title": "Is baseline pupil size related to cognitive ability? Yes (under proper lighting conditions)",
+    "section": "",
+    "text": "There has been some controversy as to whether baseline pupil size is related to individual differences in cognitive ability. Previously, we had shown that a larger baseline pupil size was associated with higher cognitive ability and that the correlation to fluid intelligence was larger than that to working memory capacity (Tsukahara, Harrison, & Engle, 2016). However, other researchers have not been able to replicate our findings – though they only measured working memory capacity and not fluid intelligence. Many of the studies showing no relationship had major methodological issues, namely small baseline pupil size values – down to the physiological minimum that resulted in reduced variability on baseline pupil size. We conducted two large-scale studies to investigate how different lighting conditions affect baseline pupil size values and the correlation with cognitive abilities. We found that fluid intelligence, working memory capacity, and attention control did correlate with baseline pupil size except in the brightest lighting conditions. We showed that a reduced variability in baseline pupil size values is due to the monitor settings being too bright. Overall, our findings demonstrated that the baseline pupil size working memory capacity relationship was not as strong or robust as that with fluid intelligence or attention control. Our findings have strong methodological implications for researchers investigating individual differences in task-free or task-evoked pupil size. We conclude that fluid intelligence does correlate with baseline pupil size and that this is related to the functional organization of the resting-state brain through the locus coeruleus-norepinephrine system."
+  },
+  {
+    "objectID": "publications/2021-ijp-vagus-pupil/index.html",
+    "href": "publications/2021-ijp-vagus-pupil/index.html",
+    "title": "Transcutaneous vagus nerve stimulation via tragus or cymba conchae: Are its psychophysiological effects dependent on the stimulation area?",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
     "objectID": "publications/2021-jepg-visualarrays/index.html",
     "href": "publications/2021-jepg-visualarrays/index.html",
     "title": "The visual arrays task: Visual storage capacity or attention control?",
@@ -89,6 +320,13 @@
     "title": "The visual arrays task: Visual storage capacity or attention control?",
     "section": "",
     "text": "Extant literature suggests that performance on visual arrays tasks reflects limited-capacity storage of visual information. However, there is also evidence to suggest that visual arrays task performance reflects individual differences in controlled processing. The purpose of this study was to empirically evaluate the degree to which visual arrays tasks are more closely related to memory storage capacity or measures of attention control. To this end, we conducted new analyses on a series of large data sets that incorporate various versions of a visual arrays task. Based on these analyses, we suggest that the degree to which the visual arrays is related to memory storage ability or effortful attention control may be task-dependent. Specifically, when versions of the task require participants to ignore elements of the target display, individual differences in controlled attention reliably provide unique predictive value. Therefore, at least some versions of the visual arrays tasks can be used as valid indicators of individual differences in attention control."
+  },
+  {
+    "objectID": "publications/2021-sa-pupil/index.html",
+    "href": "publications/2021-sa-pupil/index.html",
+    "title": "Pupil Size Is a Marker of Intelligence",
+    "section": "",
+    "text": "Back to top"
   },
   {
     "objectID": "publications/2022-chwml-book-chapter/index.html",
@@ -105,18 +343,32 @@
     "text": "In this chapter, we discuss the measurement of working memory capacity and attention control. First, we examine the origins of complex span measures of working memory capacity, which were created to better understand the cognitive processes underpinning language comprehension. We then discuss the executive attention theory of working memory, which places attention control at the center of individual differences in working memory capacity and fluid intelligence. Next, we describe the relationship between working memory capacity, attention control, and language comprehension, and discuss how maintenance and disengagement – two functions supported by the control of attention – contribute to performance across a range of cognitive tasks. Afterward, we discuss challenges associated with measuring working memory capacity and attention control and identify factors that threaten the construct and criterion validity of these measures. We also detail the steps our laboratory has taken to refine the measurement of these cognitive constructs. We close by providing practical recommendations and resources to researchers who wish to use measures of working memory capacity and attention control in their work."
   },
   {
-    "objectID": "publications/2021-tr-rationality/index.html",
-    "href": "publications/2021-tr-rationality/index.html",
-    "title": "Understanding the relationship between rationality and intelligence: A latent-variable approach",
+    "objectID": "publications/2023-ac-psychomotor/index.html",
+    "href": "publications/2023-ac-psychomotor/index.html",
+    "title": "Knowledge, attention, and psychomotor ability: A latent variable approach to understanding individual differences in simulated work performance",
     "section": "",
-    "text": "A hallmark of intelligent behavior is rationality – the disposition and ability to think analytically to make decisions that maximize expected utility or follow the laws of probability. However, the question remains as to whether rationality and intelligence are empirically distinct, as does the question of what cognitive mechanisms underlie individual differences in rationality. In a sample of 331 participants, we assessed the relationship between rationality and intelligence. There was a common ability underpinning performance on some, but not all, rationality tests. Latent factors representing rationality and general intelligence were strongly correlated (r = .54), but their correlation fell well short of unity. Rationality correlated significantly with fluid intelligence (r = .56), working memory capacity (r = .44), and attention control (r = .49). Attention control fully accounted for the relationship between working memory capacity and rationality, and partially accounted for the relationship between fluid intelligence and rationality. We conclude by speculating about factors rationality tests may tap that other cognitive ability tests miss, and outline directions for further research."
+    "text": "Across two studies (N &gt; 800), we investigated the contributions of acquired knowledge, attention control, and psychomotor ability to performance in complex simulated work paradigms. Study 1 was conducted online and included three-minute “Squared” tests of attention control and two tests of acquired knowledge, the Wonderlic and the Armed Forces Qualification Test. Although all measures predicted performance at the bivariate level, hierarchical regression analyses and structural equation modeling revealed that acquired knowledge did not account for significant incremental validity above and beyond attention control, whereas attention control accounted for substantial variance above and beyond the other predictors. Study 2 was conducted in-lab and included tests of attention control and versions of two official U.S. Military selection tests; the Armed Forces Qualification Test and the Performance-Based Measures assessment, a subtest of the Aviation Selection Test Battery. Attention control fully mediated the relationship between the Performance Based Measures and simulated work performance. Attention control measures also demonstrated slightly smaller gender differences in performance than the Performance Based Measures. We discuss the implications of these results from theoretical and applied perspectives."
   },
   {
-    "objectID": "publications/2021-tr-rationality/index.html#abstract",
-    "href": "publications/2021-tr-rationality/index.html#abstract",
-    "title": "Understanding the relationship between rationality and intelligence: A latent-variable approach",
+    "objectID": "publications/2023-ac-psychomotor/index.html#abstract",
+    "href": "publications/2023-ac-psychomotor/index.html#abstract",
+    "title": "Knowledge, attention, and psychomotor ability: A latent variable approach to understanding individual differences in simulated work performance",
     "section": "",
-    "text": "A hallmark of intelligent behavior is rationality – the disposition and ability to think analytically to make decisions that maximize expected utility or follow the laws of probability. However, the question remains as to whether rationality and intelligence are empirically distinct, as does the question of what cognitive mechanisms underlie individual differences in rationality. In a sample of 331 participants, we assessed the relationship between rationality and intelligence. There was a common ability underpinning performance on some, but not all, rationality tests. Latent factors representing rationality and general intelligence were strongly correlated (r = .54), but their correlation fell well short of unity. Rationality correlated significantly with fluid intelligence (r = .56), working memory capacity (r = .44), and attention control (r = .49). Attention control fully accounted for the relationship between working memory capacity and rationality, and partially accounted for the relationship between fluid intelligence and rationality. We conclude by speculating about factors rationality tests may tap that other cognitive ability tests miss, and outline directions for further research."
+    "text": "Across two studies (N &gt; 800), we investigated the contributions of acquired knowledge, attention control, and psychomotor ability to performance in complex simulated work paradigms. Study 1 was conducted online and included three-minute “Squared” tests of attention control and two tests of acquired knowledge, the Wonderlic and the Armed Forces Qualification Test. Although all measures predicted performance at the bivariate level, hierarchical regression analyses and structural equation modeling revealed that acquired knowledge did not account for significant incremental validity above and beyond attention control, whereas attention control accounted for substantial variance above and beyond the other predictors. Study 2 was conducted in-lab and included tests of attention control and versions of two official U.S. Military selection tests; the Armed Forces Qualification Test and the Performance-Based Measures assessment, a subtest of the Aviation Selection Test Battery. Attention control fully mediated the relationship between the Performance Based Measures and simulated work performance. Attention control measures also demonstrated slightly smaller gender differences in performance than the Performance Based Measures. We discuss the implications of these results from theoretical and applied perspectives."
+  },
+  {
+    "objectID": "publications/2023-jepg-squared-intro/index.html",
+    "href": "publications/2023-jepg-squared-intro/index.html",
+    "title": "Nature and measurement of attention control",
+    "section": "",
+    "text": "Individual differences in the ability to control attention are correlated with a wide range of important outcomes, from academic achievement and job performance to health behaviors and emotion regulation. Nevertheless, the theoretical nature of attention control as a cognitive construct has been the subject of heated debate, spurred on by psychometric issues that have stymied efforts to reliably measure differences in the ability to control attention. For theory to advance, our measures must improve. We introduce three efficient, reliable, and valid tests of attention control that each take less than 3 min to administer; Stroop Squared, Flanker Squared, and Simon Squared. Two studies (online and in-lab) comprising more than 600 participants demonstrate that the three “Squared” tasks have great internal consistency (avg. = .95) and test–retest reliability across sessions (avg. r = .67). Latent variable analyses revealed that the Squared tasks loaded highly on a common factor (avg. loading = .70), which was strongly correlated with an attention control factor based on established measures (avg. r = .81). Moreover, attention control correlated strongly with fluid intelligence, working memory capacity, and processing speed and helped explain their covariation. We found that the Squared attention control tasks accounted for 75 percent of the variance in multitasking ability at the latent level, and that fluid intelligence, attention control, and processing speed fully accounted for individual differences in multitasking ability. Our results suggest that Stroop Squared, Flanker Squared, and Simon Squared are reliable and valid measures of attention control."
+  },
+  {
+    "objectID": "publications/2023-jepg-squared-intro/index.html#abstract",
+    "href": "publications/2023-jepg-squared-intro/index.html#abstract",
+    "title": "Nature and measurement of attention control",
+    "section": "",
+    "text": "Individual differences in the ability to control attention are correlated with a wide range of important outcomes, from academic achievement and job performance to health behaviors and emotion regulation. Nevertheless, the theoretical nature of attention control as a cognitive construct has been the subject of heated debate, spurred on by psychometric issues that have stymied efforts to reliably measure differences in the ability to control attention. For theory to advance, our measures must improve. We introduce three efficient, reliable, and valid tests of attention control that each take less than 3 min to administer; Stroop Squared, Flanker Squared, and Simon Squared. Two studies (online and in-lab) comprising more than 600 participants demonstrate that the three “Squared” tasks have great internal consistency (avg. = .95) and test–retest reliability across sessions (avg. r = .67). Latent variable analyses revealed that the Squared tasks loaded highly on a common factor (avg. loading = .70), which was strongly correlated with an attention control factor based on established measures (avg. r = .81). Moreover, attention control correlated strongly with fluid intelligence, working memory capacity, and processing speed and helped explain their covariation. We found that the Squared attention control tasks accounted for 75 percent of the variance in multitasking ability at the latent level, and that fluid intelligence, attention control, and processing speed fully accounted for individual differences in multitasking ability. Our results suggest that Stroop Squared, Flanker Squared, and Simon Squared are reliable and valid measures of attention control."
   },
   {
     "objectID": "publications/index.html#preprints",
@@ -161,62 +413,6 @@
     "text": "2016\n\n\n\n  \n     \n    The relationship between baseline pupil size and intelligence\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Tyler L. Harrison, Randall W. Engle\n  Cognitive Psychology\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "publications/2023-ac-psychomotor/index.html",
-    "href": "publications/2023-ac-psychomotor/index.html",
-    "title": "Knowledge, attention, and psychomotor ability: A latent variable approach to understanding individual differences in simulated work performance",
-    "section": "",
-    "text": "Across two studies (N &gt; 800), we investigated the contributions of acquired knowledge, attention control, and psychomotor ability to performance in complex simulated work paradigms. Study 1 was conducted online and included three-minute “Squared” tests of attention control and two tests of acquired knowledge, the Wonderlic and the Armed Forces Qualification Test. Although all measures predicted performance at the bivariate level, hierarchical regression analyses and structural equation modeling revealed that acquired knowledge did not account for significant incremental validity above and beyond attention control, whereas attention control accounted for substantial variance above and beyond the other predictors. Study 2 was conducted in-lab and included tests of attention control and versions of two official U.S. Military selection tests; the Armed Forces Qualification Test and the Performance-Based Measures assessment, a subtest of the Aviation Selection Test Battery. Attention control fully mediated the relationship between the Performance Based Measures and simulated work performance. Attention control measures also demonstrated slightly smaller gender differences in performance than the Performance Based Measures. We discuss the implications of these results from theoretical and applied perspectives."
-  },
-  {
-    "objectID": "publications/2023-ac-psychomotor/index.html#abstract",
-    "href": "publications/2023-ac-psychomotor/index.html#abstract",
-    "title": "Knowledge, attention, and psychomotor ability: A latent variable approach to understanding individual differences in simulated work performance",
-    "section": "",
-    "text": "Across two studies (N &gt; 800), we investigated the contributions of acquired knowledge, attention control, and psychomotor ability to performance in complex simulated work paradigms. Study 1 was conducted online and included three-minute “Squared” tests of attention control and two tests of acquired knowledge, the Wonderlic and the Armed Forces Qualification Test. Although all measures predicted performance at the bivariate level, hierarchical regression analyses and structural equation modeling revealed that acquired knowledge did not account for significant incremental validity above and beyond attention control, whereas attention control accounted for substantial variance above and beyond the other predictors. Study 2 was conducted in-lab and included tests of attention control and versions of two official U.S. Military selection tests; the Armed Forces Qualification Test and the Performance-Based Measures assessment, a subtest of the Aviation Selection Test Battery. Attention control fully mediated the relationship between the Performance Based Measures and simulated work performance. Attention control measures also demonstrated slightly smaller gender differences in performance than the Performance Based Measures. We discuss the implications of these results from theoretical and applied perspectives."
-  },
-  {
-    "objectID": "publications/2021-ijp-vagus-pupil/index.html",
-    "href": "publications/2021-ijp-vagus-pupil/index.html",
-    "title": "Transcutaneous vagus nerve stimulation via tragus or cymba conchae: Are its psychophysiological effects dependent on the stimulation area?",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "research/ac-brain/index.html",
-    "href": "research/ac-brain/index.html",
-    "title": "Brain Mechanisms of Attention Control",
-    "section": "",
-    "text": "In the process of data collection and preliminary data analysis. Preliminary findings are promising, showing differences in functional connectivity and pupil size for high and low attention control individuals."
-  },
-  {
-    "objectID": "research/ac-brain/index.html#latest-updates",
-    "href": "research/ac-brain/index.html#latest-updates",
-    "title": "Brain Mechanisms of Attention Control",
-    "section": "",
-    "text": "In the process of data collection and preliminary data analysis. Preliminary findings are promising, showing differences in functional connectivity and pupil size for high and low attention control individuals."
-  },
-  {
-    "objectID": "research/ac-brain/index.html#description",
-    "href": "research/ac-brain/index.html#description",
-    "title": "Brain Mechanisms of Attention Control",
-    "section": "Description",
-    "text": "Description\nComing soon…"
-  },
-  {
-    "objectID": "research/ac-brain/index.html#publications",
-    "href": "research/ac-brain/index.html#publications",
-    "title": "Brain Mechanisms of Attention Control",
-    "section": "Publications",
-    "text": "Publications\n\n\n\n\n\n\n\n  \n     \n    Fluid intelligence and the locus coeruleus-norepinephrine system\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Randall W. Engle\n  Proceedings of the National Academy of Sciences\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Baseline pupil size is related to fluid intelligence: A reply to Unsworth et al. (2021)\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Christopher Draheim, Randall W. Engle\n  Cognition\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Pupil Size Is a Marker of Intelligence\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Alexandar P. Burgoyne, Randall W. Engle\n  Scientific American Mind\n  \n  \n    \n      \n         Link\n      \n    \n  \n\n\n\n  \n     \n    Is baseline pupil size related to cognitive ability? Yes (under proper lighting conditions)\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Randall W. Engle\n  Cognition\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Transcutaneous vagus nerve stimulation via tragus or cymba conchae: Are its psychophysiological effects dependent on the stimulation area?\n  \n  \n  \n    \n    \n  \n  \n  Uirassu Borges, Marie Pfannenstiel, Jason S. Tsukahara, Sylvain Laborde, Stefanie Klatt, Markus Raab\n  International Journal of Psychophysiology\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    The relationship between baseline pupil size and intelligence\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Tyler L. Harrison, Randall W. Engle\n  Cognitive Psychology\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research Projects",
-    "section": "",
-    "text": "Brain Mechanisms of Attention Control\n\n\nI am currently conducting a large-sample (N = 200+) fMRI study to investigate the brain mechanisms underlying differences in the ability to control attention.\n\n\n\n\n\n\n\n\n\n\n\n\n\nAttention Control and Cognition\n\n\nI explore this aspect of attention control by studying how people differ on their ability to control attention and how that predicts other cognitive and perceptual abilities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Measurement of Attention Control\n\n\nThis area of my research focuses on developing novel tasks that are both reliable and valid measures of attention control.\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
-  },
-  {
     "objectID": "research/ac-cogability/index.html",
     "href": "research/ac-cogability/index.html",
     "title": "Attention Control and Cognition",
@@ -245,39 +441,11 @@
     "text": "Publications\n\n\n\n\n\n\n\n  \n     \n    Knowledge, attention, and psychomotor ability: A latent variable approach to understanding individual differences in simulated work performance\n  \n  \n  \n    \n    \n  \n  \n  Cody A. Mashburn, Alexander P. Burgoyne, Jason S. Tsukahara, Richard Pak, Joseph T. Coyne, Ciara Sibley, Cyrus Foroughi, Randall W. Engle\n  PsyArxiv\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Sustaining the focus of attention and how it relates to performance in complex cognitive tasks\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Randall W. Engle\n  PsyArxiv\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Measuring individual differences in working memory capacity and attention control and their contribution to language comprehension\n  \n  \n  \n    \n    \n  \n  \n  Alexander P. Burgoyne, Jessie D. Martin, Cody A. Mashburn, Jason S. Tsukahara, Christopher Draheim, Randall W. Engle\n  The Cambridge Handbook of Working Memory and Language\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Attention control and process overlap theory: Searching for cognitive processes underpinning the positive manifold\n  \n  \n  \n    \n    \n  \n  \n  Alexander P. Burgoyne, Cody A. Mashburn, Jason S. Tsukahara, Randall W. Engle\n  Intelligence\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Understanding the relationship between rationality and intelligence: A latent-variable approach\n  \n  \n  \n    \n    \n  \n  \n  Alexander P. Burgoyne, Cody A. Mashburn, Jason S. Tsukahara, Zach D. Hambrick, Randall W. Engle\n  Thinking and Reasoning\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Differential and experimental approaches to studying intelligence in humans and non-human animals\n  \n  \n  \n    \n    \n  \n  \n  Alexander P. Burgoyne, Jason S. Tsukahara, Randall W. Engle\n  Learning and Motivation\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Individual differences in attention control: Implications for the relationship between working memory capacity and fluid intelligence\n  \n  \n  \n    \n    \n  \n  \n  Cody A. Mashburn, Jason S. Tsukahara, Randall W. Engle\n  Working memory: The state of the science\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Attention control: The missing link between sensory discrimination and intelligence\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Tyler L. Harrison, Christopher Draheim, Jessie D. Martin, Randall W. Engle\n  Attention, Perception, and Psychophysics\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/ac-measurement/index.html",
-    "href": "research/ac-measurement/index.html",
-    "title": "The Measurement of Attention Control",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research Projects",
     "section": "",
-    "text": "Toolbox tasks: Download tasks here\n\nSustained attention-to-cue task\nAntisaccade\nSelective Visual Arrays\nStroop with an adaptive response deadline\n\nThree-minute Squared tasks: Download tasks here\n\nFlanker Squared\nStroop Squared\nSimon Squared"
-  },
-  {
-    "objectID": "research/ac-measurement/index.html#measures-of-attention-control",
-    "href": "research/ac-measurement/index.html#measures-of-attention-control",
-    "title": "The Measurement of Attention Control",
-    "section": "",
-    "text": "Toolbox tasks: Download tasks here\n\nSustained attention-to-cue task\nAntisaccade\nSelective Visual Arrays\nStroop with an adaptive response deadline\n\nThree-minute Squared tasks: Download tasks here\n\nFlanker Squared\nStroop Squared\nSimon Squared"
-  },
-  {
-    "objectID": "research/ac-measurement/index.html#latest-updates",
-    "href": "research/ac-measurement/index.html#latest-updates",
-    "title": "The Measurement of Attention Control",
-    "section": "Latest Updates",
-    "text": "Latest Updates\nI am currently brainstorming research ideas for the next data collection study."
-  },
-  {
-    "objectID": "research/ac-measurement/index.html#description",
-    "href": "research/ac-measurement/index.html#description",
-    "title": "The Measurement of Attention Control",
-    "section": "Description",
-    "text": "Description\nMeasurement and theory are entwined; without adequate measurement, theoretical conclusions rest on tenuous ground. To understand the nature of attention control as a cognitive construct, we need tasks with strong psychometric properties that produce systematic differences in performance across individuals.\nUnfortunately, the study of individual differences in the ability to control attention has been hindered by measures that are notoriously unreliable. Therefore, we have been working on improving the measurement of attention control by modifying existing measures and developing novel tasks.\nOur position is that individual differences in the ability to control attention can be reliably measured and they underpin a wide range of cognitive functions, from problem solving and maintaining information in working memory to processing information rapidly and multitasking. That said, it is critical that we continue to refine our tools, including not only our tasks but also our experimental and statistical approaches."
-  },
-  {
-    "objectID": "research/ac-measurement/index.html#publications",
-    "href": "research/ac-measurement/index.html#publications",
-    "title": "The Measurement of Attention Control",
-    "section": "Publications",
-    "text": "Publications\n\n\n\n\n\n\n\n  \n     \n    Replication and extension of the toolbox approach to measuring attention control\n  \n  \n  \n    \n    \n  \n  \n  Christopher D. Draheim, Jason S. Tsukahara, Randall W. Engle\n  Behavior Research Methods\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Nature and measurement of attention control\n  \n  \n  \n    \n    \n  \n  \n  Alexander P. Burgoyne, Jason S. Tsukahara, Cody A. Mashburn, Randall W. Engle\n  Journal of Experimental Psychology: General\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    The visual arrays task: Visual storage capacity or attention control?\n  \n  \n  \n    \n    \n  \n  \n  Jessie D. Martin, Jason S. Tsukahara, Christopher Draheim, Zach Shipstead, Cody A. Mashburn, Vogel K. Edward, Randall W. Engle\n  Journal of Experimental Psychology: General\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    A toolbox approach to improving the measurement of attention control\n  \n  \n  \n    \n    \n  \n  \n  Christopher Draheim, Jason S. Tsukahara, Jessie D. Martin, Cody A. Mashburn, Randall W. Engle\n  Journal of Experimental Psychology: General\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Differential and experimental approaches to studying intelligence in humans and non-human animals\n  \n  \n  \n    \n    \n  \n  \n  Alexander P. Burgoyne, Jason S. Tsukahara, Randall W. Engle\n  Learning and Motivation\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n  \n     \n    Individual differences in attention control: Implications for the relationship between working memory capacity and fluid intelligence\n  \n  \n  \n    \n    \n  \n  \n  Cody A. Mashburn, Jason S. Tsukahara, Randall W. Engle\n  Working memory: The state of the science\n  \n  \n    \n      \n         PDF\n      \n    \n  \n\n\n\n\nNo matching items"
+    "text": "Brain Mechanisms of Attention Control\n\n\nI am currently conducting a large-sample (N = 200+) fMRI study to investigate the brain mechanisms underlying differences in the ability to control attention.\n\n\n\n\n\n\n\n\n\n\n\n\n\nAttention Control and Cognition\n\n\nI explore this aspect of attention control by studying how people differ on their ability to control attention and how that predicts other cognitive and perceptual abilities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Measurement of Attention Control\n\n\nThis area of my research focuses on developing novel tasks that are both reliable and valid measures of attention control.\n\n\n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "teaching.html",
@@ -299,173 +467,5 @@
     "title": "Teaching",
     "section": "Previous Courses",
     "text": "Previous Courses\n \n\n\n\n\n\nTitle\n\n\nSubtitle\n\n\nCategories\n\n\nDescription\n\n\n\n\n\n\nR Workshop for the Psychology Student\n\n\nOnline Workshop\n\n\nR\n\n\nThe purpose of this course is for you to gain a basic level of proficiency in 1) working with data, 2) data visualization, and 3) statistical computation in R. Check out the course here!\n\n\n\n\nApplied Experimental Psychology\n\n\nGeorgia Tech, Spring 2024\n\n\nUndergraduate, Methods\n\n\nThis is a senior capstone course. Students conduct IRB approved group research studies, learn data science skills to process and analyze their data in a reproducible way, present a poster of their findings at a conference, and write full research paper\n\n\n\n\nResearch Methods\n\n\nGeorgia Tech, Fall 2023\n\n\nUndergraduate, Methods\n\n\nUndergraduate course in research methods, statistics, R, and JASP. Students conduct a researach study and write a full scientific paper in APA format\n\n\n\n\nApplied Experimental Psychology\n\n\nGeorgia Tech, Spring 2022\n\n\nUndergraduate, Methods\n\n\nTaught advanced research methods, statistics, R, JASP, and provided support and guidance on group research projects\n\n\n\n\nGraduate Level Statistics II Lab\n\n\nGeorgia Tech, Spring 2019\n\n\nGraduate, Statistics\n\n\nTaught regression and general linear model in R and SPSS; Course design; weekly labs\n\n\n\n\nIntroduction to Experimental Psychology - Lab Section\n\n\nCSUSB, Fall 2013, Winter 2014, Spring 2014\n\n\nUndergraduate, Methods\n\n\nTaught experimental design, manuscript writing in APA format, oversaw student experiments\n\n\n\n\nSupplemental Instructions to Psychological Statistics\n\n\nCSUSB, Winter 2013, Spring 2013\n\n\nUndergraduate, Statistics\n\n\nProvided additional instruction in undergraduate level statistics\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications/2023-sact-2/index.html",
-    "href": "publications/2023-sact-2/index.html",
-    "title": "Sustaining the focus of attention and how it relates to performance in complex cognitive tasks",
-    "section": "",
-    "text": "The ability to sustain attention over time and the maintenance of information in working memory are highly overlapping constructs. Many tasks used to measure sustained attention rely heavily on the maintenance of information in working memory to sustain continuous task performance over large periods of time. To further understand the relationship between sustained attention and working memory, we tested whether the ability to sustain the focus of attention over a relatively short period of time (e.g., 12 seconds) is related to cognitive abilities such as working memory capacity and attention control. We used a novel paradigm, the sustained attention-to-cue task, to manipulate the duration attention had tobe sustained at a cued location; none (0 seconds), short (2–5 seconds), medium (5.5–8.5 seconds), and long (9–12 seconds). We found that attention waned and accuracy decreased as the wait time got longer. Those higher on attention control ability, had less of a decline in accuracy as the wait time got longer. However, the decline in accuracy as wait time got longer was not related to working memory capacity, fluid intelligence, or multitasking. These findings challenge how we think about sustained attention and working memory capacity, and the nature of attention control more generally."
-  },
-  {
-    "objectID": "publications/2023-sact-2/index.html#abstract",
-    "href": "publications/2023-sact-2/index.html#abstract",
-    "title": "Sustaining the focus of attention and how it relates to performance in complex cognitive tasks",
-    "section": "",
-    "text": "The ability to sustain attention over time and the maintenance of information in working memory are highly overlapping constructs. Many tasks used to measure sustained attention rely heavily on the maintenance of information in working memory to sustain continuous task performance over large periods of time. To further understand the relationship between sustained attention and working memory, we tested whether the ability to sustain the focus of attention over a relatively short period of time (e.g., 12 seconds) is related to cognitive abilities such as working memory capacity and attention control. We used a novel paradigm, the sustained attention-to-cue task, to manipulate the duration attention had tobe sustained at a cued location; none (0 seconds), short (2–5 seconds), medium (5.5–8.5 seconds), and long (9–12 seconds). We found that attention waned and accuracy decreased as the wait time got longer. Those higher on attention control ability, had less of a decline in accuracy as the wait time got longer. However, the decline in accuracy as wait time got longer was not related to working memory capacity, fluid intelligence, or multitasking. These findings challenge how we think about sustained attention and working memory capacity, and the nature of attention control more generally."
-  },
-  {
-    "objectID": "publications/2020-wms-book-chapter/index.html",
-    "href": "publications/2020-wms-book-chapter/index.html",
-    "title": "Individual differences in attention control: Implications for the relationship between working memory capacity and fluid intelligence",
-    "section": "",
-    "text": "In this chapter, we detail our approach to the study of individual differences in working memory capacity (WMC) and how it has contributed to understanding the mechanisms of complex cognition. Theories of working memory have primarily focused on specifying how information is represented and manipulated in a limited-capacity cognitive system. Individuals differ in the efficacy of their working memory systems, forming the basis for WMC as a psychometric construct. Decades of research have shown that WMC is predictive of a broad range of abilities and outcomes (Engle, 2002; Engle & Kane, 2004; Feldman-Barrett, Tugade, & Engle, 2004). One of the most robust and, we believe, important findings is that WMC strongly predicts fluid intelligence (Gf), the ability to solve novel problems and learn new information (Kane, Hambrick, & Conway, 2005; Kyllonen & Christal, 1990). A central feature of many models of the working memory system is a domain-general executive attention, sometimes called a central executive, which regulates other components of the system (Baddeley & Hitch, 1974; Cowan, 1999). We argue that this attentional component forms the basis of the WMC–Gf relationship."
-  },
-  {
-    "objectID": "publications/2020-wms-book-chapter/index.html#abstract",
-    "href": "publications/2020-wms-book-chapter/index.html#abstract",
-    "title": "Individual differences in attention control: Implications for the relationship between working memory capacity and fluid intelligence",
-    "section": "",
-    "text": "In this chapter, we detail our approach to the study of individual differences in working memory capacity (WMC) and how it has contributed to understanding the mechanisms of complex cognition. Theories of working memory have primarily focused on specifying how information is represented and manipulated in a limited-capacity cognitive system. Individuals differ in the efficacy of their working memory systems, forming the basis for WMC as a psychometric construct. Decades of research have shown that WMC is predictive of a broad range of abilities and outcomes (Engle, 2002; Engle & Kane, 2004; Feldman-Barrett, Tugade, & Engle, 2004). One of the most robust and, we believe, important findings is that WMC strongly predicts fluid intelligence (Gf), the ability to solve novel problems and learn new information (Kane, Hambrick, & Conway, 2005; Kyllonen & Christal, 1990). A central feature of many models of the working memory system is a domain-general executive attention, sometimes called a central executive, which regulates other components of the system (Baddeley & Hitch, 1974; Cowan, 1999). We argue that this attentional component forms the basis of the WMC–Gf relationship."
-  },
-  {
-    "objectID": "publications/2021-cog-pupil-luminance-reply/index.html",
-    "href": "publications/2021-cog-pupil-luminance-reply/index.html",
-    "title": "Baseline pupil size is related to fluid intelligence: A reply to Unsworth et al. (2021)",
-    "section": "",
-    "text": "Back to top"
-  },
-  {
-    "objectID": "publications/2023-brm-toolbox-2/index.html",
-    "href": "publications/2023-brm-toolbox-2/index.html",
-    "title": "Replication and extension of the toolbox approach to measuring attention control",
-    "section": "",
-    "text": "There is an increasing consensus among researchers that traditional attention tasks do not validly index the attentional mechanisms that they are often used to assess. We recently tested and validated several existing, modified, and new tasks and found that accuracy-based and adaptive tasks were more reliable and valid measures of attention control than traditional ones, which typically rely on speeded responding and/or contrast comparisons in the form of difference scores (Draheim et al., 2021). With these improved measures, we found that attention control fully mediated the working memory capacity-fluid intelligence relationship, a novel finding that we argued has significant theoretical implications. The present study was both a follow-up and extension to this “toolbox approach” to measuring attention control. Here, we tested updated versions of several attention control tasks in a new dataset (N = 301) and found, with one exception, that these tasks remain strong indicators of attention control. The present study also replicated two important findings; 1) that attention control accounted for nearly all the variance in the relationship between working memory capacity and fluid intelligence, and 2) that the strong association found between attention control and other cognitive measures is not because the attention control tasks place strong demands on processing speed. These findings show that attention control can be measured as a reliable and valid individual differences construct and thatattention control shares substantial variance with other executive functions."
-  },
-  {
-    "objectID": "publications/2023-brm-toolbox-2/index.html#abstract",
-    "href": "publications/2023-brm-toolbox-2/index.html#abstract",
-    "title": "Replication and extension of the toolbox approach to measuring attention control",
-    "section": "",
-    "text": "There is an increasing consensus among researchers that traditional attention tasks do not validly index the attentional mechanisms that they are often used to assess. We recently tested and validated several existing, modified, and new tasks and found that accuracy-based and adaptive tasks were more reliable and valid measures of attention control than traditional ones, which typically rely on speeded responding and/or contrast comparisons in the form of difference scores (Draheim et al., 2021). With these improved measures, we found that attention control fully mediated the working memory capacity-fluid intelligence relationship, a novel finding that we argued has significant theoretical implications. The present study was both a follow-up and extension to this “toolbox approach” to measuring attention control. Here, we tested updated versions of several attention control tasks in a new dataset (N = 301) and found, with one exception, that these tasks remain strong indicators of attention control. The present study also replicated two important findings; 1) that attention control accounted for nearly all the variance in the relationship between working memory capacity and fluid intelligence, and 2) that the strong association found between attention control and other cognitive measures is not because the attention control tasks place strong demands on processing speed. These findings show that attention control can be measured as a reliable and valid individual differences construct and thatattention control shares substantial variance with other executive functions."
-  },
-  {
-    "objectID": "publications/2020-app-sensory-discrimination/index.html",
-    "href": "publications/2020-app-sensory-discrimination/index.html",
-    "title": "Attention control: The missing link between sensory discrimination and intelligence",
-    "section": "",
-    "text": "Intelligence is correlated with the ability to make fine sensory discriminations. Although this relationship has been known since the beginning of intelligence testing, the mechanisms underlying this relationship are still unknown. In two large-scale structural equation modelling studies, we investigated whether individual differences in attention control abilities can explain the relationship between sensory discrimination and intelligence. Across these two studies, we replicated the finding that attention control fully mediated the relationships of intelligence/working-memory capacity to sensory discrimination. Our findings show that attention control plays a prominent role in relating sensory discrimination to higher-order cognitive abilities."
-  },
-  {
-    "objectID": "publications/2020-app-sensory-discrimination/index.html#abstract",
-    "href": "publications/2020-app-sensory-discrimination/index.html#abstract",
-    "title": "Attention control: The missing link between sensory discrimination and intelligence",
-    "section": "",
-    "text": "Intelligence is correlated with the ability to make fine sensory discriminations. Although this relationship has been known since the beginning of intelligence testing, the mechanisms underlying this relationship are still unknown. In two large-scale structural equation modelling studies, we investigated whether individual differences in attention control abilities can explain the relationship between sensory discrimination and intelligence. Across these two studies, we replicated the finding that attention control fully mediated the relationships of intelligence/working-memory capacity to sensory discrimination. Our findings show that attention control plays a prominent role in relating sensory discrimination to higher-order cognitive abilities."
-  },
-  {
-    "objectID": "publications/2016-cp-baseline-pupil-og/index.html",
-    "href": "publications/2016-cp-baseline-pupil-og/index.html",
-    "title": "The relationship between baseline pupil size and intelligence",
-    "section": "",
-    "text": "Pupil dilations of the eye are known to correspond to central cognitive processes. However, the relationship between pupil size and individual differences in cognitive ability is not as well studied. A peculiar finding that has cropped up in this research is that those high on cognitive ability have a larger pupil size, even during a passive baseline condition. Yet these findings were incidental and lacked a clear explanation. Therefore, in the present series of studies we systematically investigated whether pupil size during a passive baseline is associated with individual differences in working memory capacity and fluid intelligence. Across three studies we consistently found that baseline pupil size is, in fact, related to cognitive ability. We showed that this relationship could not be explained by differences in mental effort, and that the effect of working memory capacity and fluid intelligence on pupil size persisted even after 23 sessions and taking into account the effect of novelty or familiarity with the environment. We also accounted for potential confounding variables such as; age, ethnicity, and drug substances. Lastly, we found that it is fluid intelligence, more so than working memory capacity, which is related to baseline pupil size. In order to provide an explanation and suggestions for future research, we also consider our findings in the context of the underlying neural mechanisms involved."
-  },
-  {
-    "objectID": "publications/2016-cp-baseline-pupil-og/index.html#abstract",
-    "href": "publications/2016-cp-baseline-pupil-og/index.html#abstract",
-    "title": "The relationship between baseline pupil size and intelligence",
-    "section": "",
-    "text": "Pupil dilations of the eye are known to correspond to central cognitive processes. However, the relationship between pupil size and individual differences in cognitive ability is not as well studied. A peculiar finding that has cropped up in this research is that those high on cognitive ability have a larger pupil size, even during a passive baseline condition. Yet these findings were incidental and lacked a clear explanation. Therefore, in the present series of studies we systematically investigated whether pupil size during a passive baseline is associated with individual differences in working memory capacity and fluid intelligence. Across three studies we consistently found that baseline pupil size is, in fact, related to cognitive ability. We showed that this relationship could not be explained by differences in mental effort, and that the effect of working memory capacity and fluid intelligence on pupil size persisted even after 23 sessions and taking into account the effect of novelty or familiarity with the environment. We also accounted for potential confounding variables such as; age, ethnicity, and drug substances. Lastly, we found that it is fluid intelligence, more so than working memory capacity, which is related to baseline pupil size. In order to provide an explanation and suggestions for future research, we also consider our findings in the context of the underlying neural mechanisms involved."
-  },
-  {
-    "objectID": "publications/2021-jepg-toolbox-1/index.html",
-    "href": "publications/2021-jepg-toolbox-1/index.html",
-    "title": "A toolbox approach to improving the measurement of attention control",
-    "section": "",
-    "text": "Cognitive tasks that produce reliable and robust effects at the group level often fail to yield reliable and valid individual differences. An ongoing debate among attention researchers is whether conflict resolution mechanisms are task-specific or domain-general, and the lack of correlation between most attention measures seems to favor the view that attention control is not a unitary concept. We have argued that the use of difference scores, particularly in reaction time (RT), is the primary cause of null and conflicting results at the individual differences level, and that methodological issues with existing tasks preclude making strong theoretical conclusions. The present article is an empirical test of this view in which we used a toolbox approach to develop and validate new tasks hypothesized to reflect attention processes. Here, we administered existing, modified, and new attention tasks to over 400 participants (final N = 396). Compared with the traditional Stroop and flanker tasks, performance on the accuracy-based measures was more reliable, had stronger intercorrelations, formed a more coherent latent factor, and had stronger associations to measures of working memory capacity and fluid intelligence. Further, attention control fully accounted for the relationship between working memory capacity and fluid intelligence. These results show that accuracy-based measures can be better suited to individual differences investigations than traditional RT tasks, particularly when the goal is to maximize prediction. We conclude that attention control is a unitary concept."
-  },
-  {
-    "objectID": "publications/2021-jepg-toolbox-1/index.html#abstract",
-    "href": "publications/2021-jepg-toolbox-1/index.html#abstract",
-    "title": "A toolbox approach to improving the measurement of attention control",
-    "section": "",
-    "text": "Cognitive tasks that produce reliable and robust effects at the group level often fail to yield reliable and valid individual differences. An ongoing debate among attention researchers is whether conflict resolution mechanisms are task-specific or domain-general, and the lack of correlation between most attention measures seems to favor the view that attention control is not a unitary concept. We have argued that the use of difference scores, particularly in reaction time (RT), is the primary cause of null and conflicting results at the individual differences level, and that methodological issues with existing tasks preclude making strong theoretical conclusions. The present article is an empirical test of this view in which we used a toolbox approach to develop and validate new tasks hypothesized to reflect attention processes. Here, we administered existing, modified, and new attention tasks to over 400 participants (final N = 396). Compared with the traditional Stroop and flanker tasks, performance on the accuracy-based measures was more reliable, had stronger intercorrelations, formed a more coherent latent factor, and had stronger associations to measures of working memory capacity and fluid intelligence. Further, attention control fully accounted for the relationship between working memory capacity and fluid intelligence. These results show that accuracy-based measures can be better suited to individual differences investigations than traditional RT tasks, particularly when the goal is to maximize prediction. We conclude that attention control is a unitary concept."
-  },
-  {
-    "objectID": "publications/2021-pnas-intelligence-lc/index.html",
-    "href": "publications/2021-pnas-intelligence-lc/index.html",
-    "title": "Fluid intelligence and the locus coeruleus-norepinephrine system",
-    "section": "",
-    "text": "The last decade has seen significant progress identifying genetic and brain differences related to intelligence. However, there remain considerable gaps in our understanding of how cognitive mechanisms that underpin intelligence map onto various brain functions. In this article, we argue that the locus coeruleus-norepinephrine system is essential for understanding the biological basis of intelligence. We review evidence suggesting that the locus coeruleus–norepinephrine system plays a central role at all levels of brain function, from metabolic processes to the organization of large-scale brain networks. We connect this evidence with our executive attention view of working-memory capacity and fluid intelligence and present analyses on baseline pupil size, an indicator of locus coeruleus activity. Using a latent variable approach, our analyses showed that a common executive attention factor predicted baseline pupil size. Additionally, the executive attention function of disengagement––not maintenance––uniquely predicted baseline pupil size. These findings suggest that the ability to control attention may be important for understanding how cognitive mechanisms of fluid intelligence map onto the locus coeruleus–norepinephrine system. We discuss how further research is needed to better understand the relationships between fluid intelligence, the locus coeruleus–norepinephrine system, and functionally organized brain networks."
-  },
-  {
-    "objectID": "publications/2021-pnas-intelligence-lc/index.html#abstract",
-    "href": "publications/2021-pnas-intelligence-lc/index.html#abstract",
-    "title": "Fluid intelligence and the locus coeruleus-norepinephrine system",
-    "section": "",
-    "text": "The last decade has seen significant progress identifying genetic and brain differences related to intelligence. However, there remain considerable gaps in our understanding of how cognitive mechanisms that underpin intelligence map onto various brain functions. In this article, we argue that the locus coeruleus-norepinephrine system is essential for understanding the biological basis of intelligence. We review evidence suggesting that the locus coeruleus–norepinephrine system plays a central role at all levels of brain function, from metabolic processes to the organization of large-scale brain networks. We connect this evidence with our executive attention view of working-memory capacity and fluid intelligence and present analyses on baseline pupil size, an indicator of locus coeruleus activity. Using a latent variable approach, our analyses showed that a common executive attention factor predicted baseline pupil size. Additionally, the executive attention function of disengagement––not maintenance––uniquely predicted baseline pupil size. These findings suggest that the ability to control attention may be important for understanding how cognitive mechanisms of fluid intelligence map onto the locus coeruleus–norepinephrine system. We discuss how further research is needed to better understand the relationships between fluid intelligence, the locus coeruleus–norepinephrine system, and functionally organized brain networks."
-  },
-  {
-    "objectID": "publications/2020-lm-diff-exp/index.html",
-    "href": "publications/2020-lm-diff-exp/index.html",
-    "title": "Differential and experimental approaches to studying intelligence in humans and non-human animals",
-    "section": "",
-    "text": "Why do some individuals learn more quickly than others, or perform better in complex cognitive tasks? In this article, we describe how differential and experimental research methods can be used to study intelligence in humans and non-human animals. More than one hundred years ago, Spearman (1904) discovered a general factor underpinning performance across cognitive domains in humans. Shortly thereafter, Thorndike (1935) discovered positive correlations between cognitive performance measures in the albino rat. Today, research continues to shed light on the underpinnings of the positive manifold observed among ability measures. In this review, we focus on the relationship between cognitive performance and attention control; the domain-general ability to maintain focus on task-relevant information while preventing attentional capture by task-irrelevant thoughts and events. Recent work from our laboratory has revealed that individual differences in attention control can largely explain the positive associations between broad cognitive abilities such as working memory capacity and fluid intelligence. In research on mice, attention control has been closely linked to a general ability factor reflecting route learning and problem solving. Taken together, both lines of research suggest that individual differences in attention control underpin performance in a variety of complex cognitive tasks, helping to explain why measures of cognitive ability correlate positively. Efforts to find confirmatory and dis-confirmatory evidence across species stands to improve not only our understanding of attention control, but cognition in general."
-  },
-  {
-    "objectID": "publications/2020-lm-diff-exp/index.html#abstract",
-    "href": "publications/2020-lm-diff-exp/index.html#abstract",
-    "title": "Differential and experimental approaches to studying intelligence in humans and non-human animals",
-    "section": "",
-    "text": "Why do some individuals learn more quickly than others, or perform better in complex cognitive tasks? In this article, we describe how differential and experimental research methods can be used to study intelligence in humans and non-human animals. More than one hundred years ago, Spearman (1904) discovered a general factor underpinning performance across cognitive domains in humans. Shortly thereafter, Thorndike (1935) discovered positive correlations between cognitive performance measures in the albino rat. Today, research continues to shed light on the underpinnings of the positive manifold observed among ability measures. In this review, we focus on the relationship between cognitive performance and attention control; the domain-general ability to maintain focus on task-relevant information while preventing attentional capture by task-irrelevant thoughts and events. Recent work from our laboratory has revealed that individual differences in attention control can largely explain the positive associations between broad cognitive abilities such as working memory capacity and fluid intelligence. In research on mice, attention control has been closely linked to a general ability factor reflecting route learning and problem solving. Taken together, both lines of research suggest that individual differences in attention control underpin performance in a variety of complex cognitive tasks, helping to explain why measures of cognitive ability correlate positively. Efforts to find confirmatory and dis-confirmatory evidence across species stands to improve not only our understanding of attention control, but cognition in general."
-  },
-  {
-    "objectID": "index.html#research-projects",
-    "href": "index.html#research-projects",
-    "title": "Jason Tsukahara, PhD",
-    "section": "Research Projects",
-    "text": "Research Projects\n \n\n\n\n\n\n\n\n\n\n\nBrain Mechanisms of Attention Control\n\n\nI am currently conducting a large-sample (N = 200+) fMRI study to investigate the brain mechanisms underlying differences in the ability to control attention.\n\n\n\n\n\n\n\n\n\n\n\n\n\nAttention Control and Cognition\n\n\nI explore this aspect of attention control by studying how people differ on their ability to control attention and how that predicts other cognitive and perceptual abilities.\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Measurement of Attention Control\n\n\nThis area of my research focuses on developing novel tasks that are both reliable and valid measures of attention control.\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#featured-publications",
-    "href": "index.html#featured-publications",
-    "title": "Jason Tsukahara, PhD",
-    "section": "Featured Publications",
-    "text": "Featured Publications\n \n\n\n\n\n\n\n\n  \n     \n    Knowledge, attention, and psychomotor ability: A latent variable approach to understanding individual differences in simulated work performance\n  \n  \n  \n    \n    \n  \n  \n  Cody A. Mashburn, Alexander P. Burgoyne, Jason S. Tsukahara, Richard Pak, Joseph T. Coyne, Ciara Sibley, Cyrus Foroughi, Randall W. Engle\n  PsyArxiv\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Sustaining the focus of attention and how it relates to performance in complex cognitive tasks\n  \n  \n  \n    \n    \n  \n  \n  Jason S. Tsukahara, Randall W. Engle\n  PsyArxiv\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n  \n     \n    Replication and extension of the toolbox approach to measuring attention control\n  \n  \n  \n    \n    \n  \n  \n  Christopher D. Draheim, Jason S. Tsukahara, Randall W. Engle\n  Behavior Research Methods\n  \n  \n    \n      \n         PDF\n      \n    \n      \n         Code\n      \n    \n      \n         Data\n      \n    \n  \n\n\n\n\nNo matching items\n\n\nSee all publications →"
-  },
-  {
-    "objectID": "index.html#r-packages",
-    "href": "index.html#r-packages",
-    "title": "Jason Tsukahara, PhD",
-    "section": "R Packages",
-    "text": "R Packages\n \n\n\n\n\n\n\n\n\n\n\nenglelab\n\n\nHelpful functions for processing and scoring complex-span and attention control tasks downloaded from the EngleLab.\n\n\n\n\n\n\n\n\n\n\n\n\n\nsemoutput\n\n\nAn R package to create nice looking output for CFA and SEM analyses using lavaan and semPlot packages.\n\n\n\n\n\n\n\n\n\n\n\n\n\npupillometry\n\n\nAn easy to use R package to preprocess pupil data for researchers that are not experts in either pupillometry or working with data in R.\n\n\n\n\n\n\n\n\n\n\nR Workshop for the Psychology Student\n\n\nThe purpose of this course is for you to gain a basic level of proficiency in 1) working with data, 2) data visualization, and 3) statistical computation in R.\n\n\n\n\n\n\n\nNo matching items\n\n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCongratulations! You made it down this far.\nTake a moment to enjoy the silence.\nLove yourself and Love all those around you, even if you disagree with them—especially if you disagree with them."
-  },
-  {
-    "objectID": "templates/trestles_template.html",
-    "href": "templates/trestles_template.html",
-    "title": "Frank Hermosillo",
-    "section": "",
-    "text": "Frank Hermosillo studies neural networks and their applications at Google Brain. His research focuses on differentiable network pruning approximation and decentralized gradient inversion mechanics. He frequently collaborates with researchers who study machine learning, computer vision, and cognitive science. His work has been featured in WIRED, The Atlantic, Newsweek, and The New York Times Magazine."
-  },
-  {
-    "objectID": "templates/trestles_template.html#bio",
-    "href": "templates/trestles_template.html#bio",
-    "title": "Frank Hermosillo",
-    "section": "",
-    "text": "Frank Hermosillo studies neural networks and their applications at Google Brain. His research focuses on differentiable network pruning approximation and decentralized gradient inversion mechanics. He frequently collaborates with researchers who study machine learning, computer vision, and cognitive science. His work has been featured in WIRED, The Atlantic, Newsweek, and The New York Times Magazine."
-  },
-  {
-    "objectID": "templates/trestles_template.html#education",
-    "href": "templates/trestles_template.html#education",
-    "title": "Frank Hermosillo",
-    "section": "Education",
-    "text": "Education\nMassachusetts Institute of Technology | Cambridge, MA\nPh.D. in Computer Science | September 2009 - May 2014\nThe University of California, Berkeley | Berkeley, CA\nB.S. in Computer Science | September 2005 - May 2009"
-  },
-  {
-    "objectID": "templates/trestles_template.html#experience",
-    "href": "templates/trestles_template.html#experience",
-    "title": "Frank Hermosillo",
-    "section": "Experience",
-    "text": "Experience\nGoogle Brain | Principal Investigator | January 2018 - Present\nNetflix | Research Scientist | June 2014 - December 2017"
   }
 ]
