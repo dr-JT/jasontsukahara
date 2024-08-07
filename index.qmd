@@ -1,7 +1,7 @@
 ---
 title: "Jason Tsukahara, PhD"
 pagetitle: "Jason Tsukahara, PhD"
-subtitle: "Post-Doctoral Researcher in Cognitive Psychology at Georgia Tech"
+subtitle: "Post-Doctoral Researcher in Cognitive Psychology at University of Miami"
 image: images/profile_photo.jpeg
 
 twitter-card:
@@ -85,7 +85,7 @@ resources:
  
 
 ::: {#hero-heading}
-I do research in the area of cognitive psychology with a focus on understanding the nature and potential of our ability to focus our attention, it's biological basis, and how it impacts our life and mind in meaningful ways.
+I do research in the area of cognitive psychology with a focus on understanding the nature and potential of our ability to focus attention, it's biological basis, and how it impacts our life and mind in meaningful ways.
 
 [Learn more about me →](about.html){.about-links .subtitle}
 :::
@@ -199,9 +199,7 @@ I do research in the area of cognitive psychology with a focus on understanding 
 
  
 
-Take a moment to enjoy the silence.
-
-Love yourself and Love all those around you, even if you disagree with them—especially if you disagree with them.
+Take a moment to enjoy the silence
 
  
 

@@ -33,11 +33,11 @@ resources:
 Hi there,
 :::
 
-I am currently a post-doctoral researcher in the [Attention & Working Memory Lab](https://englelab.gatech.edu) at Georgia Tech working with [Randy Engle](https://englelab.gatech.edu/engle.html).
+I am currently a post-doctoral researcher in the [Jha Lab](https://lab.amishi.com/){target="_blank"} at the University of Miami working with [Amishi Jha](https://amishi.com/){target="_blank"}
 
 As a cognitive psychologist and practicing Buddhist contemplative, I am curious about the ways in which we use our attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways.
 
-Currently my research focuses on individual differences in the ability to control attention and how that relates to cognitive abilities, sustained attention, pupil size, and the locus coeruleus-norepinephrine system.
+Currently my research focuses on how mindfulness-based training programs can benefit cognition, emotion, resilience, well-being, and performance. My work has also focused on individual differences in the ability to control attention and how that relates to cognitive abilities, sustained attention, pupil size, and the locus coeruleus-norepinephrine system.
 
 ## Education
 
@@ -62,7 +62,9 @@ I am originally from Bothell, WA (\~30 miles north of Seattle). I will always co
 
 From there I went on to do a 2 year M.A. program in General Experimental Psychology at California State University, San Bernardino (CSUSB). At CSUSB I worked with Dr. Hideya Koshino doing research on selective attention and working memory.
 
-I was, then, accepted into Randy Engle’s lab as a Ph.D. student at Georgia Tech. I graduated with my Ph.D. in December 2022. My research in the lab involves investigating the nature of attention control with the use of pupillometry. I make use of the R statistical programming language to analyze data in a way that is most consistent with open science and reproducibility practices. I have developed several R Packages relevant to the lab's research.
+I was, then, accepted into [Randy Engle’s lab](https://englelab.gatech.edu/){target="_blank"} as a Ph.D. student at Georgia Tech. I graduated with my Ph.D. in December 2022 and worked as a post-doc with Randy for a year and a half. My research in the lab involved investigating the nature of attention control with the use of pupillometry. I made use of the R statistical programming language to analyze data in a way that is most consistent with open science and reproducibility practices. I had developed several R Packages relevant to the lab's research.
+
+I then went on to do a post-doc with Amishi Jha at the University of Miami in 2024 to extend the work I had done at Georgia Tech in an area that is very near to my heart, mindfulness and meditation. This has been a great opportunity for me to get involved in an area of research I am both academically and personally passionate about.
 
 Outside of psychology, my interests include Buddhist spiritual practice (mainly influenced by the Nyingma tradition from Tibetan Buddhism and Dzogchen teachings in particular), teaching meditation and mindfulness practices, hiking, camping, riding my bicycle around town, and photography.
 :::
