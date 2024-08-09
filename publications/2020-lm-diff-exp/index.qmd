@@ -19,7 +19,7 @@ project:
   - ac-cogability
   
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2020-lm-diff-exp/2020-lm-diff-exp.pdf
   

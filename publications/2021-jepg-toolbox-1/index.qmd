@@ -13,6 +13,8 @@ date: "2021-01-01"
 publication: "Journal of Experimental Psychology: General"
 doi: "10.1037/xge0000783"
 
+home-page: "yes"
+
 pub-type: "Article"
 icon-type: file-richtext
 color: BC3C29FF
@@ -20,7 +22,7 @@ project:
   - ac-measurement
 
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2021-jepg-toolbox-1/2021-jepg-toolbox-1.pdf
   

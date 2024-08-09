@@ -18,7 +18,7 @@ project:
   - ac-brain
   
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2016-cp-baseline-pupil-og/2016-cp-baseline-pupil-og.pdf
   

@@ -22,7 +22,7 @@ project:
   - ac-measurement
 
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2021-jepg-visualarrays/2021-jepg-visualarrays.pdf
 - icon: code-square

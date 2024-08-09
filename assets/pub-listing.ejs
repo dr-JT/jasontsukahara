@@ -10,13 +10,11 @@
     <a href="<%= item.path %>"><%= item.title %></a>
   </h3>
   
-  <div style="display: flex; justify-content: flex-start; align-items: left; padding-left: 2.6em">
-    <span style="margin-right: 20px" class="__dimensions_badge_embed__" data-style="small_rectangle" data-legend="never" data-doi="<%= item['doi'] %>"></span>
-    <span style="padding-left: 0" class='altmetric-embed' data-badge-popover='bottom' data-doi="<%= item['doi'] %>" data-link-target='_blank' style="padding-left: 2.4em"></span>
-  </div>
-  
   <p><%= item.author %></p>
-  <p style="font-style: italic"><%= item['publication'] %></p>
+  <p style="font-style: italic">
+    <span style="font-weight: bold"><%= item['year'] %></span>,&nbsp;
+    <span style="font-style: italic"><%= item['publication'] %></span>
+  </p>
   
   <div style="margin-top: .5em; padding-left: 2.4em">
     <% for (const link of item.links) { %>
@@ -24,6 +22,11 @@
         <i class="bi bi-<%= link.icon %> me-1"></i> <%= link.name %>
       </a>
     <% } %>
+  </div>
+  
+  <div style="display: flex; justify-content: flex-start; align-items: left; padding-left: 2.6em; margin-top: .5em">
+    <span style="margin-right: 20px" class="__dimensions_badge_embed__" data-style="small_rectangle" data-legend="never" data-doi="<%= item['doi'] %>"></span>
+    <span style="padding-left: 0" class='altmetric-embed' data-badge-popover='bottom' data-doi="<%= item['doi'] %>" data-link-target='_blank' style="padding-left: 2.4em"></span>
   </div>
 </li>
 <% } %>

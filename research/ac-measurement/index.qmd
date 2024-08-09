@@ -1,8 +1,7 @@
 ---
 title: The Measurement of Attention Control
-date: '2022-08-25'
 
-description: This area of my research focuses on developing novel tasks that are both reliable and valid measures of attention control.
+description: Development of cognitive tasks that are both reliable and valid measures of attention control.
 
 image: featured.png
 
@@ -15,9 +14,21 @@ listing:
   template: ../../assets/pub-listing.ejs
 ---
 
+## Description
+
+Measurement and theory are entwined; without adequate measurement, theoretical conclusions rest on tenuous ground. To understand the nature of attention control as a cognitive construct, we need tasks with strong psychometric properties that produce systematic differences in performance across individuals.
+
+Unfortunately, the study of individual differences in the ability to control attention has been hindered by measures that are notoriously unreliable. Therefore, we have been working on improving the measurement of attention control by modifying existing measures and developing novel tasks.
+
+Our position is that individual differences in the ability to control attention can be reliably measured and they underpin a wide range of cognitive functions, from problem solving and maintaining information in working memory to processing information rapidly and multitasking. That said, it is critical that we continue to refine our tools, including not only our tasks but also our experimental and statistical approaches.
+
 ## Measures of Attention Control
 
-Toolbox tasks: [Download tasks here](https://englelab.gatech.edu/toolboxtasks.html){target="_blank"}
+### Toolbox tasks
+
+The Toolbox Tasks consist of accuracy-based and adaptive threshold attention tasks that all demonstrate strong reliability and validity as measures of attention control. Each task takes roughly 10+ minutes to administer. It is advised to choose 3 of these tasks to measure attention control at the latent construct level.
+
+[Download tasks here](https://englelab.gatech.edu/toolboxtasks.html){target="_blank"}
 
 -   Sustained attention-to-cue task
 
@@ -27,25 +38,17 @@ Toolbox tasks: [Download tasks here](https://englelab.gatech.edu/toolboxtasks.ht
 
 -   Stroop with an adaptive response deadline
 
-Three-minute Squared tasks: [Download tasks here](https://englelab.gatech.edu/squaredtasks.html){target="_blank"}
+### Three-minute Squared tasks
+
+The Three-Minute Squared Tasks are classic Stroop, Simon, and Flanker tasks with a twist. The three tasks take in total about 9 minutes to adminster and provide a reliable and valid measure of attention control at the latent construct level.
+
+[Download tasks here](https://englelab.gatech.edu/squaredtasks.html){target="_blank"}
 
 -   Flanker Squared
 
 -   Stroop Squared
 
 -   Simon Squared
-
-## Latest Updates
-
-I am currently brainstorming research ideas for the next data collection study.
-
-## Description
-
-Measurement and theory are entwined; without adequate measurement, theoretical conclusions rest on tenuous ground. To understand the nature of attention control as a cognitive construct, we need tasks with strong psychometric properties that produce systematic differences in performance across individuals.
-
-Unfortunately, the study of individual differences in the ability to control attention has been hindered by measures that are notoriously unreliable. Therefore, we have been working on improving the measurement of attention control by modifying existing measures and developing novel tasks.
-
-Our position is that individual differences in the ability to control attention can be reliably measured and they underpin a wide range of cognitive functions, from problem solving and maintaining information in working memory to processing information rapidly and multitasking. That said, it is critical that we continue to refine our tools, including not only our tasks but also our experimental and statistical approaches.
 
 ## Publications
 

@@ -21,7 +21,7 @@ project:
   - ac-cogability
 
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2022-chwml-book-chapter/2022-chwml-book-chapter.pdf
   

@@ -1,8 +1,7 @@
 ---
 title: Attention Control and Cognition
-date: '2022-08-25'
 
-description: I explore this aspect of attention control by studying how people differ on their ability to control attention and how that predicts other cognitive and perceptual abilities.
+description: How people differ on their ability to control attention and how that predicts performance in other sensory, cognitive, and real-world domains.
 
 image: featured.png
 
@@ -14,16 +13,6 @@ listing:
   sort: date desc
   template: ../../assets/pub-listing.ejs
 ---
-
-## Latest Updates
-
-I am currently writing papers for publication on 1) attention control and inspection time tasks, and 2) sustained attention, reward, and pupil size.
-
-I am currently brainstorming research ideas for the next data collection study.
-
-## Description
-
-Coming soon...
 
 ## Publications
 

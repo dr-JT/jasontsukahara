@@ -15,9 +15,10 @@ icon-type: file-richtext
 color: BC3C29FF
 project:
   - ac-cogability
+home-page: "yes"
 
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: https://psyarxiv.com/wd5kz/
 - icon: code-square

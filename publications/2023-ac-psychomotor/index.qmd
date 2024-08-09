@@ -23,7 +23,7 @@ project:
   - ac-cogability
 
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: https://psyarxiv.com/gdmtf/
 - icon: code-square

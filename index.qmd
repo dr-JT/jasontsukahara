@@ -1,13 +1,13 @@
 ---
 title: "Jason Tsukahara, PhD"
 pagetitle: "Jason Tsukahara, PhD"
-subtitle: "Post-Doctoral Researcher in Cognitive Psychology at University of Miami"
+subtitle: "Post-Doctoral Researcher in Cognitive Psychology at <br> University of Miami"
 image: images/profile_photo.jpeg
 
 twitter-card:
     title: Jason Tsukahara, PhD
     description: |
-      I do research in the area of cognitive psychology with a focus on understanding the nature and potential of our ability to focus our attention.
+      I do research in cognitive psychology with a focus on understanding the nature and potential of our ability to focus attention.
     image: images/profile_photo.jpeg
 
 about:
@@ -26,10 +26,11 @@ about:
       
 listing: 
 - id: research
-  contents: research
-  exclude:
-    home-page: "yes"
-  sort: date desc
+  contents: 
+    - ac-cogability/index.qmd
+    - ac-measurement/index.qmd
+    - ac-brain/index.qmd
+  sort: false
   type: grid
   grid-columns: 3
   categories: false
@@ -41,7 +42,7 @@ listing:
   
 - id: publications
   contents: publications
-  exclude:
+  include:
     home-page: "yes"
   sort: date desc
   template: assets/pub-listing.ejs
@@ -85,7 +86,7 @@ resources:
  
 
 ::: {#hero-heading}
-I do research in the area of cognitive psychology with a focus on understanding the nature and potential of our ability to focus attention, it's biological basis, and how it impacts our life and mind in meaningful ways.
+I do research in cognitive psychology with a focus on understanding the nature and potential of our ability to focus attention, it's biological basis, and how it impacts our life and mind in meaningful ways.
 
 [Learn more about me →](about.html){.about-links .subtitle}
 :::
@@ -100,7 +101,7 @@ I do research in the area of cognitive psychology with a focus on understanding 
 
  
 
-## Research Projects
+## Research Areas
 
  
 

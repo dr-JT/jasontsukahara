@@ -19,7 +19,7 @@ project:
   - ac-measurement
   
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2023-jepg-squared-intro/2023-jepg-squared-intro.pdf
 - icon: code-square

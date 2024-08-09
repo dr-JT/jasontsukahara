@@ -1,6 +1,6 @@
 ---
 title: "Jason S. Tsukahara"
-subtitle: "Post-Doctoral Researcher <br> Georgia Tech"
+subtitle: "Post-Doctoral Researcher <br> Jha Lab <br> University of Miami"
 
 about:
   id: hero-heading
@@ -33,11 +33,11 @@ resources:
 Hi there,
 :::
 
-I am currently a post-doctoral researcher in the [Jha Lab](https://lab.amishi.com/){target="_blank"} at the University of Miami working with [Amishi Jha](https://amishi.com/){target="_blank"}
+I am currently a post-doctoral researcher in the [Jha Lab](https://lab.amishi.com/){target="_blank"} at the University of Miami working with [Amishi Jha](https://amishi.com/){target="_blank"}.
 
-As a cognitive psychologist and practicing Buddhist contemplative, I am curious about the ways in which we use our attention, how well we are able to use it, and how it impacts our mind and life in meaningful ways.
+I graduated with my Ph.D. in Cognition and Brain Sciences at Georgia Tech in the [Attention & Working Memory Lab](https://englelab.gatech.edu/) working with [Randy Engle](https://englelab.gatech.edu/engle.html).
 
-Currently my research focuses on how mindfulness-based training programs can benefit cognition, emotion, resilience, well-being, and performance. My work has also focused on individual differences in the ability to control attention and how that relates to cognitive abilities, sustained attention, pupil size, and the locus coeruleus-norepinephrine system.
+My expertise is in cognitive psychology and neuroscience. Using behavioral, self-report, pupil size, and neuroimaging methods I have studied how individuals differ on their ability to control attention. My program of research focuses on 1) how attention control relates to other cognitive abilities such as working memory capacity and fluid intelligence, 2) how to improve the measurement of attention control, and 3) brain mechanisms underlying differences in attention control.
 
 ## Education
 
@@ -58,7 +58,7 @@ Currently my research focuses on how mindfulness-based training programs can ben
 
 ::: grid
 ::: {#about-me-1 .g-col-12}
-I am originally from Bothell, WA (\~30 miles north of Seattle). I will always consider Washington State as my home. I earned my B.A. in Behavioral Neuroscience at Western Washington University. This is where I found my interest in cognitive psychology. I took a year off after college to participate in an 8-week silent meditation retreat on Shamatha and the Four Immeasurables in Phuket, Thailand with my teacher [Alan Wallace](https://www.alanwallace.org).
+I am originally from Bothell, WA (\~30 miles north of Seattle). I will always consider Washington State as my home. I earned my B.A. in Behavioral Neuroscience at Western Washington University. This is where I found my interest in cognitive psychology, Buddhism, meditation, and contemplative practices more generally. I took a year off after college to participate in an 8-week silent meditation retreat on Shamatha and the Four Immeasurables in Phuket, Thailand with my teacher [Alan Wallace](https://www.alanwallace.org).
 
 From there I went on to do a 2 year M.A. program in General Experimental Psychology at California State University, San Bernardino (CSUSB). At CSUSB I worked with Dr. Hideya Koshino doing research on selective attention and working memory.
 

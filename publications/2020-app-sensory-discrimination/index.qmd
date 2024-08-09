@@ -13,6 +13,8 @@ date: "2020-06-08"
 publication: "Attention, Perception, and Psychophysics"
 doi: "10.3758/s13414-020-02044-9"
 
+home-page: "yes"
+
 pub-type: "Article"
 icon-type: file-richtext
 color: BC3C29FF
@@ -20,7 +22,7 @@ project:
   - ac-cogability
   
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2020-app-sensory-discrimination/2020-app-sensory-discrimination.pdf
 - icon: code-square

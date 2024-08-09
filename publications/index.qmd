@@ -1,64 +1,52 @@
 ---
 title: "Publications" 
-  
-home-page: "yes"
 
-listing: 
+listing:
   - id: "preprints"
     contents: "**.qmd"
     template: ../assets/pub-listing.ejs
     include: 
       pub-type: "Preprint"
-    sort: date
+    sort: date desc
     categories: true
     
-  - id: "2023"
+  - id: "journal-articles"
     contents: "**.qmd"
     template: ../assets/pub-listing.ejs
     include: 
-      year: "2023"
-    exclude:
-      pub-type: "Preprint"
-    sort: date
+      pub-type: "Article"
+    sort: date desc
+    categories: true
     
-  - id: "2022"
+  - id: "book-chapters"
     contents: "**.qmd"
     template: ../assets/pub-listing.ejs
     include: 
-      year: "2022"
-    sort: date
+      pub-type: "Chapter"
+    sort: date desc
+    categories: true
     
-  - id: "2021"
+  - id: "popular-writing"
     contents: "**.qmd"
     template: ../assets/pub-listing.ejs
-    include: 
-      year: "2021"
-    sort: date
-    
-  - id: "2020"
-    contents: "**.qmd"
-    template: ../assets/pub-listing.ejs
-    include: 
-      year: "2020"
-    sort: date
-    
-  - id: "2016"
-    contents: "**.qmd"
-    template: ../assets/pub-listing.ejs
-    include: 
-      year: "2016"
-    sort: date
+    include:
+      pub-type: "Popular Piece"
+    sort: date desc
+    categories: true
 
-image: false
+image: false 
 
 execute:
   echo: false
   eval: true
 
-format: 
-  html: 
-    page-layout: full
-title-block-banner: false
+page-layout: full
+toc: true 
+toc-location: right
+toc-title: Publication Type
+toc-depth: 2
+    
+title-block-banner: false 
 
 header-includes: >
   <link rel="stylesheet" href="../assets/listing-default.css">
@@ -77,42 +65,30 @@ profile <- get_profile(id)
 citations <- get_citation_history(id)
 ```
 
- 
+<div>
 
-::: {style="text-align: center"}
-{{< ai google-scholar >}} [Google Scholar](https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en){target="_blank"}
+[Google Scholar](https://scholar.google.com/citations?user=393wE14AAAAJ&hl=en){target="_blank"}
 
-Citations: `{r} profile$total_cites`
+Citations: `{r} profile$total_cites`        h-index: `{r} profile$h_index` 
 
-h-index: `{r} profile$h_index` 
-:::
+</div>
 
 ## Preprints {style="text-align: left"}
 
 ::: {#preprints}
 :::
 
-## 2023 {style="text-align: left"}
+## Journal Articles {style="text-align: left"}
 
-::: {#2023}
+::: {#journal-articles}
 :::
 
-## 2022 {style="text-align: left"}
+## Book Chapters {style="text-align: left"}
 
-::: {#2022}
+::: {#book-chapters}
 :::
 
-## 2021 {style="text-align: left"}
+## Popular Writing {style="text-align: left"}
 
-::: {#2021}
-:::
-
-## 2020 {style="text-align: left"}
-
-::: {#2020}
-:::
-
-## 2016 {style="text-align: left"}
-
-::: {#2016}
+::: {#popular-writing}
 :::

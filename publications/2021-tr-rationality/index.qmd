@@ -20,7 +20,7 @@ project:
   - ac-cogability
 
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2021-tr-rationality/2021-tr-rationality.pdf
   

@@ -21,7 +21,7 @@ project:
   - ac-brain
 
 links:
-- icon: file-pdf-fill
+- icon: file-pdf
   name: PDF
   url: /publications/2021-ijp-vagus-pupil/2021-ijp-vagus-pupil.pdf
   
