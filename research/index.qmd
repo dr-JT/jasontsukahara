@@ -1,7 +1,7 @@
 ---
-title: "Research Projects"
+title: "Research"
 description: |
-  My expertise is in cognitive psychology and neuroscience. Using behavioral, self-report, pupil size, and neuroimaging methods I have studied how individuals differ on their ability to control attention. These are the broad areas my research focuses on
+  My expertise is in cognitive psychology and neuroscience. Using behavioral, self-report, pupil size, and neuroimaging methods I have studied how individuals differ on their ability to control attention. These are the broad areas my research focuses on.
   
 home-page: "yes"
 
@@ -16,14 +16,22 @@ listing:
   filter-ui: false
   image-align: left
   image-height: 100%
-  
-format: 
-  html: 
-    page-layout: full
-title-block-banner: false
+
+image: false 
+
+execute:
+  echo: false
+  eval: true
+
+page-layout: full
+    
+title-block-banner: false 
 
 header-includes: >
   <link rel="stylesheet" href="../assets/listing-default.css">
 resources:
   - ../assets/listing-default.css
+  
+filters:
+  - schocastics/academicons
 ---

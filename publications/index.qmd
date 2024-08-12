@@ -8,7 +8,6 @@ listing:
     include: 
       pub-type: "Preprint"
     sort: date desc
-    categories: true
     
   - id: "journal-articles"
     contents: "**.qmd"
@@ -16,7 +15,6 @@ listing:
     include: 
       pub-type: "Article"
     sort: date desc
-    categories: true
     
   - id: "book-chapters"
     contents: "**.qmd"
@@ -24,7 +22,6 @@ listing:
     include: 
       pub-type: "Chapter"
     sort: date desc
-    categories: true
     
   - id: "popular-writing"
     contents: "**.qmd"
@@ -32,7 +29,6 @@ listing:
     include:
       pub-type: "Popular Piece"
     sort: date desc
-    categories: true
 
 image: false 
 
