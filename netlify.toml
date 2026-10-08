@@ -1,0 +1,37 @@
+# Redirect every URL from the old site to the CALM Lab homepage.
+
+[[redirects]]
+  from = "https://jasontsukahara.com/*"
+  to = "https://calmlab.science/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.jasontsukahara.com/*"
+  to = "https://calmlab.science/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://jasontsukahara.netlify.app/*"
+  to = "https://calmlab.science/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://jasontsukahara.com/*"
+  to = "https://calmlab.science/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.jasontsukahara.com/*"
+  to = "https://calmlab.science/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://jasontsukahara.netlify.app/*"
+  to = "https://calmlab.science/"
+  status = 301
+  force = true
